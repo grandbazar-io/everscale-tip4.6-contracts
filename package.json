@@ -1,0 +1,33 @@
+{
+  "name": "@grandbazar-io/everscale-tip4.6-contracts",
+  "version": "1.0.0",
+  "description": "TIP-4.6 (Upgradeable NFT) contracts implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx locklift test --network local"
+  },
+  "author": "grandbazar.io",
+  "license": "MIT",
+  "dependencies": {
+    "@broxus/contracts": "github:broxus/ever-contracts",
+    "@itgold/everscale-tip": "1.1.4",
+    "broxus-ton-tokens-contracts": "github:broxus/tip3",
+    "prettier": "^2.8.3",
+    "prompts": "^2.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:grandbazar-io/everscale-tip4.6-contracts.git"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.11.18",
+    "chai": "^4.3.7",
+    "chai-arrays": "^2.2.0",
+    "locklift": "^2.7.4",
+    "mocha": "^10.2.0",
+    "mocha-logger": "^1.0.8",
+    "ora": "^5.4.1"
+  }
+}

@@ -1,0 +1,992 @@
+{
+  "map": {
+    "0139c5dc4ee3094dafb283f1ed7367979750f12bfcaffd38ad5527b5ea0113c6": {
+      "0": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "8": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "24": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "40": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      }
+    },
+    "0962aed0e078e22925d4b04f65815939806654077c2a72647cfc0084e7542cb9": {
+      "0": {
+        "filename": "<save-my-code>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<save-my-code>",
+        "line": 7
+      }
+    },
+    "0bdfa124820a4895c1debe0070ee52e1adab28eb8cb93fd73e52c36f8a391ad4": {
+      "0": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "8": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "16": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "56": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "72": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "80": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "88": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      }
+    },
+    "2743c3357f9138b94a035561b00042cfa8851e9e86c5986e92a93fffec0b38ae": {
+      "38": {
+        "filename": "CollectionPlatform.code",
+        "line": 158
+      },
+      "46": {
+        "filename": "CollectionPlatform.code",
+        "line": 160
+      },
+      "62": {
+        "filename": "CollectionPlatform.code",
+        "line": 163
+      },
+      "78": {
+        "filename": "CollectionPlatform.code",
+        "line": 164
+      }
+    },
+    "2a1a01af00d35509bbf76dfb0b0409644793f5d053fc243185f0117a869548e2": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "2e1814b9dd71d768a3295b605ae2354a3f5cb9ed24cec7ac47c7abc280c63b99": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 180
+      },
+      "16": {
+        "filename": "CollectionPlatform.code",
+        "line": 181
+      },
+      "24": {
+        "filename": "CollectionPlatform.code",
+        "line": 182
+      },
+      "40": {
+        "filename": "CollectionPlatform.code",
+        "line": 183
+      },
+      "56": {
+        "filename": "CollectionPlatform.code",
+        "line": 184
+      },
+      "72": {
+        "filename": "CollectionPlatform.code",
+        "line": 185
+      },
+      "80": {
+        "filename": "CollectionPlatform.code",
+        "line": 186
+      },
+      "96": {
+        "filename": "CollectionPlatform.code",
+        "line": 187
+      },
+      "104": {
+        "filename": "CollectionPlatform.code",
+        "line": 188
+      },
+      "120": {
+        "filename": "CollectionPlatform.code",
+        "line": 189
+      },
+      "128": {
+        "filename": "CollectionPlatform.code",
+        "line": 190
+      },
+      "136": {
+        "filename": "CollectionPlatform.code",
+        "line": 191
+      },
+      "152": {
+        "filename": "CollectionPlatform.code",
+        "line": 192
+      },
+      "168": {
+        "filename": "CollectionPlatform.code",
+        "line": 193
+      },
+      "176": {
+        "filename": "CollectionPlatform.code",
+        "line": 194
+      },
+      "200": {
+        "filename": "CollectionPlatform.code",
+        "line": 196
+      },
+      "208": {
+        "filename": "CollectionPlatform.code",
+        "line": 197
+      },
+      "216": {
+        "filename": "CollectionPlatform.code",
+        "line": 199
+      },
+      "224": {
+        "filename": "CollectionPlatform.code",
+        "line": 200
+      },
+      "240": {
+        "filename": "CollectionPlatform.code",
+        "line": 201
+      },
+      "256": {
+        "filename": "CollectionPlatform.code",
+        "line": 202
+      },
+      "272": {
+        "filename": "CollectionPlatform.code",
+        "line": 203
+      },
+      "288": {
+        "filename": "CollectionPlatform.code",
+        "line": 204
+      },
+      "312": {
+        "filename": "CollectionPlatform.code",
+        "line": 205
+      },
+      "328": {
+        "filename": "CollectionPlatform.code",
+        "line": 206
+      },
+      "336": {
+        "filename": "CollectionPlatform.code",
+        "line": 207
+      },
+      "352": {
+        "filename": "CollectionPlatform.code",
+        "line": 209
+      }
+    },
+    "2ffe6fe00672931001f8c71927983098612f585766686e0d530d5d63b3bbe1b9": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 167
+      },
+      "16": {
+        "filename": "CollectionPlatform.code",
+        "line": 168
+      },
+      "24": {
+        "filename": "CollectionPlatform.code",
+        "line": 169
+      },
+      "40": {
+        "filename": "CollectionPlatform.code",
+        "line": 170
+      },
+      "56": {
+        "filename": "CollectionPlatform.code",
+        "line": 171
+      },
+      "72": {
+        "filename": "CollectionPlatform.code",
+        "line": 172
+      },
+      "80": {
+        "filename": "CollectionPlatform.code",
+        "line": 173
+      },
+      "96": {
+        "filename": "CollectionPlatform.code",
+        "line": 174
+      },
+      "104": {
+        "filename": "CollectionPlatform.code",
+        "line": 175
+      },
+      "120": {
+        "filename": "CollectionPlatform.code",
+        "line": 176
+      },
+      "136": {
+        "filename": "CollectionPlatform.code",
+        "line": 177
+      }
+    },
+    "30fce196f43b6dc21f7db974fa330df4877b38143502c57998b2e585972561c7": {
+      "0": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 22
+      },
+      "16": {
+        "filename": "CollectionPlatform.code",
+        "line": 122
+      },
+      "32": {
+        "filename": "CollectionPlatform.code",
+        "line": 125
+      }
+    },
+    "488b33de6205dc2bfd1e0766b6913a6c6d27599e014cd72849d21e316cdbb43c": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 333
+      },
+      "8": {
+        "filename": "CollectionPlatform.code",
+        "line": 334
+      },
+      "56": {
+        "filename": "CollectionPlatform.code",
+        "line": 335
+      },
+      "64": {
+        "filename": "CollectionPlatform.code",
+        "line": 336
+      }
+    },
+    "6d39ca0644d9d6d8c3f35828f23ba83dcf445678a42e2da6217e155c3d254f20": {
+      "0": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "16": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "24": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      }
+    },
+    "72fe5d87740ebba1032a04185f76148a73bad10937b1adc05b943bd3a3e58723": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 6
+      },
+      "8": {
+        "filename": "CollectionPlatform.code",
+        "line": 7
+      },
+      "24": {
+        "filename": "CollectionPlatform.code",
+        "line": 8
+      },
+      "32": {
+        "filename": "CollectionPlatform.code",
+        "line": 9
+      },
+      "48": {
+        "filename": "CollectionPlatform.code",
+        "line": 12
+      },
+      "64": {
+        "filename": "CollectionPlatform.code",
+        "line": 13
+      },
+      "80": {
+        "filename": "CollectionPlatform.code",
+        "line": 14
+      },
+      "88": {
+        "filename": "CollectionPlatform.code",
+        "line": 15
+      },
+      "96": {
+        "filename": "CollectionPlatform.code",
+        "line": 16
+      },
+      "104": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "120": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "128": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "136": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "176": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "184": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "192": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "200": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "216": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 18
+      },
+      "224": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 18
+      },
+      "232": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 18
+      },
+      "256": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 19
+      },
+      "264": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 19
+      },
+      "272": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 19
+      },
+      "288": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 19
+      },
+      "296": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 19
+      },
+      "312": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 19
+      },
+      "320": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 20
+      },
+      "336": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 20
+      },
+      "352": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 20
+      }
+    },
+    "81cd90a9bf155fbe6b2751ac8a57f03cfbc7bed5c03cc45e74a204da3d84d487": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 214
+      },
+      "16": {
+        "filename": "CollectionPlatform.code",
+        "line": 215
+      },
+      "32": {
+        "filename": "CollectionPlatform.code",
+        "line": 216
+      },
+      "48": {
+        "filename": "CollectionPlatform.code",
+        "line": 217
+      },
+      "56": {
+        "filename": "CollectionPlatform.code",
+        "line": 218
+      },
+      "72": {
+        "filename": "CollectionPlatform.code",
+        "line": 219
+      },
+      "88": {
+        "filename": "CollectionPlatform.code",
+        "line": 220
+      },
+      "104": {
+        "filename": "CollectionPlatform.code",
+        "line": 221
+      },
+      "120": {
+        "filename": "CollectionPlatform.code",
+        "line": 222
+      },
+      "128": {
+        "filename": "CollectionPlatform.code",
+        "line": 223
+      }
+    },
+    "9ffa09d6fef7ac351a097c7f260aa433a4c270a83990678f257c619dda8f40d1": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 277
+      },
+      "16": {
+        "filename": "CollectionPlatform.code",
+        "line": 278
+      },
+      "24": {
+        "filename": "CollectionPlatform.code",
+        "line": 279
+      },
+      "40": {
+        "filename": "CollectionPlatform.code",
+        "line": 280
+      },
+      "56": {
+        "filename": "CollectionPlatform.code",
+        "line": 281
+      },
+      "72": {
+        "filename": "CollectionPlatform.code",
+        "line": 282
+      },
+      "360": {
+        "filename": "CollectionPlatform.code",
+        "line": 283
+      },
+      "376": {
+        "filename": "CollectionPlatform.code",
+        "line": 284
+      },
+      "384": {
+        "filename": "CollectionPlatform.code",
+        "line": 285
+      },
+      "400": {
+        "filename": "CollectionPlatform.code",
+        "line": 288
+      },
+      "416": {
+        "filename": "CollectionPlatform.code",
+        "line": 289
+      },
+      "424": {
+        "filename": "CollectionPlatform.code",
+        "line": 290
+      },
+      "440": {
+        "filename": "CollectionPlatform.code",
+        "line": 291
+      },
+      "464": {
+        "filename": "CollectionPlatform.code",
+        "line": 292
+      },
+      "480": {
+        "filename": "CollectionPlatform.code",
+        "line": 293
+      },
+      "488": {
+        "filename": "CollectionPlatform.code",
+        "line": 294
+      },
+      "504": {
+        "filename": "CollectionPlatform.code",
+        "line": 295
+      },
+      "512": {
+        "filename": "CollectionPlatform.code",
+        "line": 296
+      },
+      "528": {
+        "filename": "CollectionPlatform.code",
+        "line": 297
+      },
+      "536": {
+        "filename": "CollectionPlatform.code",
+        "line": 298
+      },
+      "544": {
+        "filename": "CollectionPlatform.code",
+        "line": 299
+      },
+      "560": {
+        "filename": "CollectionPlatform.code",
+        "line": 300
+      },
+      "568": {
+        "filename": "CollectionPlatform.code",
+        "line": 301
+      },
+      "576": {
+        "filename": "CollectionPlatform.code",
+        "line": 303
+      },
+      "584": {
+        "filename": "CollectionPlatform.code",
+        "line": 304
+      },
+      "592": {
+        "filename": "CollectionPlatform.code",
+        "line": 305
+      },
+      "608": {
+        "filename": "CollectionPlatform.code",
+        "line": 307
+      },
+      "616": {
+        "filename": "CollectionPlatform.code",
+        "line": 308
+      },
+      "632": {
+        "filename": "CollectionPlatform.code",
+        "line": 309
+      },
+      "648": {
+        "filename": "CollectionPlatform.code",
+        "line": 311
+      },
+      "656": {
+        "filename": "CollectionPlatform.code",
+        "line": 312
+      },
+      "672": {
+        "filename": "CollectionPlatform.code",
+        "line": 313
+      },
+      "680": {
+        "filename": "CollectionPlatform.code",
+        "line": 314
+      },
+      "696": {
+        "filename": "CollectionPlatform.code",
+        "line": 316
+      },
+      "704": {
+        "filename": "CollectionPlatform.code",
+        "line": 317
+      },
+      "720": {
+        "filename": "CollectionPlatform.code",
+        "line": 318
+      },
+      "728": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "744": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "752": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "760": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "776": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "784": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "800": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "824": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "832": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "872": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "880": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "888": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "904": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "920": {
+        "filename": "CollectionPlatform.code",
+        "line": 320
+      },
+      "936": {
+        "filename": "CollectionPlatform.code",
+        "line": 321
+      },
+      "944": {
+        "filename": "CollectionPlatform.code",
+        "line": 322
+      },
+      "960": {
+        "filename": "CollectionPlatform.code",
+        "line": 323
+      },
+      "968": {
+        "filename": "CollectionPlatform.code",
+        "line": 324
+      },
+      "984": {
+        "filename": "CollectionPlatform.code",
+        "line": 325
+      },
+      "1000": {
+        "filename": "CollectionPlatform.code",
+        "line": 326
+      }
+    },
+    "baef9986bb01b4e27009a1d42a4b4f2f0e9894d53ae3ed8eefc12ec6483abc7c": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 327
+      },
+      "16": {
+        "filename": "CollectionPlatform.code",
+        "line": 330
+      }
+    },
+    "d4558544870b4995be58a7a61afa4ed8db74cb3458f27245fc4d771269dcfe92": {
+      "0": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "16": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "24": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "56": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "72": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "88": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "96": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "112": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "120": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "152": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "168": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "176": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "192": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "208": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "216": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "232": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "240": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "248": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      },
+      "256": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 17
+      }
+    },
+    "db6db5cfc97ef56dee0cf8876567ff22d590955e49e90d476e1986fa5abe0fcd": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "e8a4cba9a2a029706ac409a42d7b8c21033070de1bcf76babac94a2d788d7da2": {
+      "0": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 29
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 258
+      },
+      "16": {
+        "filename": "CollectionPlatform.code",
+        "line": 259
+      }
+    },
+    "f3b50faee49dc60d87a9e61c59bf53922b3c5a2b4938e18390082113731f1fa6": {
+      "0": {
+        "filename": "CollectionPlatform.code",
+        "line": 242
+      },
+      "16": {
+        "filename": "CollectionPlatform.code",
+        "line": 243
+      },
+      "24": {
+        "filename": "CollectionPlatform.code",
+        "line": 244
+      },
+      "40": {
+        "filename": "CollectionPlatform.code",
+        "line": 245
+      },
+      "56": {
+        "filename": "CollectionPlatform.code",
+        "line": 246
+      },
+      "72": {
+        "filename": "CollectionPlatform.code",
+        "line": 247
+      },
+      "80": {
+        "filename": "CollectionPlatform.code",
+        "line": 248
+      },
+      "88": {
+        "filename": "CollectionPlatform.code",
+        "line": 249
+      },
+      "104": {
+        "filename": "CollectionPlatform.code",
+        "line": 250
+      },
+      "120": {
+        "filename": "CollectionPlatform.code",
+        "line": 251
+      },
+      "128": {
+        "filename": "CollectionPlatform.code",
+        "line": 252
+      },
+      "144": {
+        "filename": "CollectionPlatform.code",
+        "line": 253
+      },
+      "168": {
+        "filename": "CollectionPlatform.code",
+        "line": 254
+      },
+      "176": {
+        "filename": "CollectionPlatform.code",
+        "line": 255
+      },
+      "184": {
+        "filename": "CollectionPlatform.code",
+        "line": 256
+      },
+      "200": {
+        "filename": "CollectionPlatform.code",
+        "line": 257
+      },
+      "216": {
+        "filename": "CollectionPlatform.code",
+        "line": 261
+      },
+      "224": {
+        "filename": "CollectionPlatform.code",
+        "line": 262
+      },
+      "248": {
+        "filename": "CollectionPlatform.code",
+        "line": 263
+      },
+      "264": {
+        "filename": "CollectionPlatform.code",
+        "line": 264
+      },
+      "272": {
+        "filename": "CollectionPlatform.code",
+        "line": 265
+      },
+      "288": {
+        "filename": "CollectionPlatform.code",
+        "line": 269
+      },
+      "296": {
+        "filename": "CollectionPlatform.code",
+        "line": 270
+      },
+      "312": {
+        "filename": "CollectionPlatform.code",
+        "line": 273
+      }
+    },
+    "f8c384077fd6c473c014353da869e98db76391ec645d8e68a6f2895b4a3200b2": {
+      "0": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 26
+      },
+      "8": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 26
+      },
+      "24": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "32": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "40": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "48": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "88": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "104": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "112": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "128": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "136": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "144": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "160": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "168": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "184": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 27
+      },
+      "200": {
+        "filename": "../contracts/Collection/CollectionPlatform.sol",
+        "line": 29
+      }
+    }
+  }
+}

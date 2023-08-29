@@ -1,0 +1,481 @@
+{
+	"ABI version": 2,
+	"version": "2.2",
+	"header": ["pubkey", "time", "expire"],
+	"functions": [
+		{
+			"name": "constructor",
+			"inputs": [
+				{"name":"codeCollection","type":"cell"},
+				{"name":"codeNft","type":"cell"},
+				{"name":"codeIndex","type":"cell"},
+				{"name":"codeIndexBasis","type":"cell"},
+				{"name":"ownerPubkey","type":"uint256"},
+				{"name":"withdrawalAddress","type":"address"},
+				{"name":"creationPrice","type":"uint128"},
+				{"name":"nftMintingFee","type":"uint128"},
+				{"name":"nftPlatformCode","type":"cell"},
+				{"name":"collectionPlatformCode","type":"cell"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "upgrade",
+			"inputs": [
+				{"name":"newCode","type":"cell"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "deployCollection",
+			"inputs": [
+				{"name":"json","type":"string"},
+				{"name":"sendGasTo","type":"address"},
+				{"name":"isProtected","type":"bool"}
+			],
+			"outputs": [
+				{"name":"addrCollection","type":"address"}
+			]
+		},
+		{
+			"name": "requestCollectionUpgrade",
+			"inputs": [
+				{"name":"currentVersion","type":"uint32"},
+				{"name":"id","type":"uint256"},
+				{"name":"sendGasTo","type":"address"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "requestUpdateNftCode",
+			"inputs": [
+				{"name":"currentNftVersion","type":"uint32"},
+				{"name":"collectionId","type":"uint256"},
+				{"name":"sendGasTo","type":"address"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "updateNftCode",
+			"inputs": [
+				{"name":"code","type":"cell"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "setNewNftData",
+			"inputs": [
+				{"name":"newData","type":"cell"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "updateCollectionCode",
+			"inputs": [
+				{"name":"code","type":"cell"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "setNewCollectionData",
+			"inputs": [
+				{"name":"newData","type":"cell"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "nftVersion",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"value0","type":"uint32"}
+			]
+		},
+		{
+			"name": "collectionVersion",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"value0","type":"uint32"}
+			]
+		},
+		{
+			"name": "collectionPlatformCode",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"value0","type":"cell"}
+			]
+		},
+		{
+			"name": "gasUpgradeValue",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"fixedValue","type":"uint128"},
+				{"name":"dynamicValue","type":"uint128"}
+			]
+		},
+		{
+			"name": "collectionPlatformCodeInfo",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"codeHash","type":"uint256"},
+				{"name":"codeDepth","type":"uint16"}
+			]
+		},
+		{
+			"name": "nftPlatformCodeOriginal",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"value0","type":"cell"}
+			]
+		},
+		{
+			"name": "nftCodeOriginal",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"value0","type":"cell"}
+			]
+		},
+		{
+			"name": "nftPlatformCodeHashOriginal",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"value0","type":"uint256"}
+			]
+		},
+		{
+			"name": "nftCodeHashOriginal",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"value0","type":"uint256"}
+			]
+		},
+		{
+			"name": "onNftCreated",
+			"inputs": [
+				{"name":"id","type":"uint256"},
+				{"name":"nftId","type":"uint256"},
+				{"name":"nft","type":"address"},
+				{"name":"owner","type":"address"},
+				{"name":"manager","type":"address"},
+				{"name":"creator","type":"address"},
+				{"name":"sendGasTo","type":"address"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "setCreationPrice",
+			"inputs": [
+				{"name":"value","type":"uint128"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "setMethodCallsFee",
+			"inputs": [
+				{"name":"value","type":"uint128"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "setRemainOnCollection",
+			"inputs": [
+				{"name":"value","type":"uint128"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "setMinimalGasAmount",
+			"inputs": [
+				{"name":"value","type":"uint128"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "setCollectionsMinimalGasAmount",
+			"inputs": [
+				{"name":"value","type":"uint128"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "setWithdrawalAddress",
+			"inputs": [
+				{"name":"addr","type":"address"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "stopCollectionsDeployment",
+			"inputs": [
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "startCollectionsDeployment",
+			"inputs": [
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "withdraw",
+			"inputs": [
+				{"name":"value","type":"uint128"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "destroy",
+			"inputs": [
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "totalSupply",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"count","type":"uint128"}
+			]
+		},
+		{
+			"name": "withdrawalAddress",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"addr","type":"address"}
+			]
+		},
+		{
+			"name": "getFeesInfo",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"totalCreationPrice","type":"uint128"},
+				{"name":"remainOnCollection","type":"uint128"},
+				{"name":"creationPrice","type":"uint128"},
+				{"name":"deployIndexBasisValue","type":"uint128"},
+				{"name":"nftMintingFee","type":"uint128"},
+				{"name":"methodsCallsFee","type":"uint128"},
+				{"name":"minimalGasAmount","type":"uint128"},
+				{"name":"collectionsMinimalGasAmount","type":"uint128"}
+			]
+		},
+		{
+			"name": "deploymentIsActive",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"isActive","type":"bool"}
+			]
+		},
+		{
+			"name": "collectionCode",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"code","type":"cell"}
+			]
+		},
+		{
+			"name": "collectionCodeHash",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"codeHash","type":"uint256"}
+			]
+		},
+		{
+			"name": "collectionAddress",
+			"inputs": [
+				{"name":"answerId","type":"uint32"},
+				{"name":"id","type":"uint256"}
+			],
+			"outputs": [
+				{"name":"collection","type":"address"}
+			]
+		},
+		{
+			"name": "owner",
+			"inputs": [
+				{"name":"answerId","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"pubkey","type":"uint256"}
+			]
+		},
+		{
+			"name": "transferOwnership",
+			"inputs": [
+				{"name":"newOwner","type":"uint256"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "supportsInterface",
+			"inputs": [
+				{"name":"answerId","type":"uint32"},
+				{"name":"interfaceID","type":"uint32"}
+			],
+			"outputs": [
+				{"name":"value0","type":"bool"}
+			]
+		}
+	],
+	"data": [
+	],
+	"events": [
+		{
+			"name": "NftCodeUpdated",
+			"inputs": [
+				{"name":"oldVersion","type":"uint32"},
+				{"name":"newVersion","type":"uint32"},
+				{"name":"oldCodeHash","type":"uint256"},
+				{"name":"newCodeHash","type":"uint256"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "CollectionCodeUpdated",
+			"inputs": [
+				{"name":"oldVersion","type":"uint32"},
+				{"name":"newVersion","type":"uint32"},
+				{"name":"oldCodeHash","type":"uint256"},
+				{"name":"newCodeHash","type":"uint256"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "UpdateNftCodeRequested",
+			"inputs": [
+				{"name":"oldVersion","type":"uint32"},
+				{"name":"newVersion","type":"uint32"},
+				{"name":"collection","type":"address"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "UpgradeCollectionCodeRequested",
+			"inputs": [
+				{"name":"oldVersion","type":"uint32"},
+				{"name":"newVersion","type":"uint32"},
+				{"name":"collection","type":"address"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "OwnershipTransferred",
+			"inputs": [
+				{"name":"oldOwner","type":"uint256"},
+				{"name":"newOwner","type":"uint256"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "CollectionCreated",
+			"inputs": [
+				{"name":"id","type":"uint256"},
+				{"name":"collection","type":"address"},
+				{"name":"author","type":"address"},
+				{"name":"json","type":"string"},
+				{"name":"isProtected","type":"bool"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "NftCreated",
+			"inputs": [
+				{"name":"id","type":"uint256"},
+				{"name":"nft","type":"address"},
+				{"name":"collection","type":"address"},
+				{"name":"owner","type":"address"},
+				{"name":"manager","type":"address"},
+				{"name":"creator","type":"address"}
+			],
+			"outputs": [
+			]
+		}
+	],
+	"fields": [
+		{"name":"_pubkey","type":"uint256"},
+		{"name":"_timestamp","type":"uint64"},
+		{"name":"_constructorFlag","type":"bool"},
+		{"name":"_supportedInterfaces","type":"optional(cell)"},
+		{"name":"_owner","type":"uint256"},
+		{"name":"_owner","type":"uint256"},
+		{"name":"_codeCollection","type":"cell"},
+		{"name":"_codeNft","type":"cell"},
+		{"name":"_codeIndex","type":"cell"},
+		{"name":"_codeIndexBasis","type":"cell"},
+		{"name":"_withdrawalAddress","type":"address"},
+		{"name":"_remainOnCollection","type":"uint128"},
+		{"name":"_minimalGasAmount","type":"uint128"},
+		{"name":"_creationPrice","type":"uint128"},
+		{"name":"_deployIndexBasisValue","type":"uint128"},
+		{"name":"_nftMintingFee","type":"uint128"},
+		{"name":"_methodsCallsFee","type":"uint128"},
+		{"name":"_collectionsMinimalGasAmount","type":"uint128"},
+		{"name":"_indexDeployValue","type":"uint128"},
+		{"name":"_indexDestroyValue","type":"uint128"},
+		{"name":"_totalSupply","type":"uint128"},
+		{"name":"_deploymentIsActive","type":"bool"},
+		{"name":"_nftPlatformCode","type":"cell"},
+		{"name":"_collectionPlatformCode","type":"cell"},
+		{"name":"_version","type":"uint32"},
+		{"name":"_nftVersion","type":"uint32"},
+		{"name":"_collectionVersion","type":"uint32"},
+		{"name":"_collectionsFactoryVersion","type":"uint32"},
+		{"name":"_upgradedNftData","type":"cell"},
+		{"name":"_upgradedCollectionData","type":"cell"},
+		{"name":"_remainOnNft","type":"uint128"},
+		{"name":"_nftBurnFee","type":"uint128"}
+	]
+}

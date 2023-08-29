@@ -1,0 +1,2877 @@
+{
+  "map": {
+    "042e638ae447ec97d8d0695f89e27a87695bdfc4d93dd9b66cd1c7c25a04b125": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "16": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "24": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "56": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "72": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "80": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "96": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "112": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      },
+      "144": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 51
+      }
+    },
+    "156d7def8b7afe3311fa8db53b70f0c2b0a660e7922b0959208593a2d80d54dd": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      },
+      "16": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      },
+      "24": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      },
+      "56": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      },
+      "72": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      },
+      "80": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      },
+      "96": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      },
+      "112": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 39
+      }
+    },
+    "21e251f6d5de7d296505318ea8672807beadac8ae60facdf41093b331dfe3f9c": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 312
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 313
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 314
+      },
+      "48": {
+        "filename": "TIP4_1Collection.code",
+        "line": 315
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 316
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 317
+      },
+      "88": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "104": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "120": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "144": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "160": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "168": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "176": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "184": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "192": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "200": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "208": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "224": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 58
+      },
+      "232": {
+        "filename": "TIP4_1Collection.code",
+        "line": 336
+      },
+      "248": {
+        "filename": "TIP4_1Collection.code",
+        "line": 339
+      },
+      "256": {
+        "filename": "TIP4_1Collection.code",
+        "line": 340
+      },
+      "272": {
+        "filename": "TIP4_1Collection.code",
+        "line": 341
+      },
+      "280": {
+        "filename": "TIP4_1Collection.code",
+        "line": 342
+      },
+      "288": {
+        "filename": "TIP4_1Collection.code",
+        "line": 343
+      },
+      "304": {
+        "filename": "TIP4_1Collection.code",
+        "line": 344
+      },
+      "320": {
+        "filename": "TIP4_1Collection.code",
+        "line": 345
+      },
+      "328": {
+        "filename": "TIP4_1Collection.code",
+        "line": 346
+      },
+      "336": {
+        "filename": "TIP4_1Collection.code",
+        "line": 347
+      },
+      "344": {
+        "filename": "TIP4_1Collection.code",
+        "line": 348
+      },
+      "368": {
+        "filename": "TIP4_1Collection.code",
+        "line": 349
+      },
+      "376": {
+        "filename": "TIP4_1Collection.code",
+        "line": 350
+      },
+      "384": {
+        "filename": "TIP4_1Collection.code",
+        "line": 351
+      },
+      "408": {
+        "filename": "TIP4_1Collection.code",
+        "line": 352
+      },
+      "416": {
+        "filename": "TIP4_1Collection.code",
+        "line": 353
+      },
+      "424": {
+        "filename": "TIP4_1Collection.code",
+        "line": 354
+      },
+      "472": {
+        "filename": "TIP4_1Collection.code",
+        "line": 355
+      },
+      "480": {
+        "filename": "TIP4_1Collection.code",
+        "line": 356
+      },
+      "488": {
+        "filename": "TIP4_1Collection.code",
+        "line": 357
+      },
+      "496": {
+        "filename": "TIP4_1Collection.code",
+        "line": 358
+      },
+      "504": {
+        "filename": "TIP4_1Collection.code",
+        "line": 360
+      },
+      "520": {
+        "filename": "TIP4_1Collection.code",
+        "line": 361
+      },
+      "536": {
+        "filename": "TIP4_1Collection.code",
+        "line": 362
+      },
+      "544": {
+        "filename": "TIP4_1Collection.code",
+        "line": 363
+      },
+      "560": {
+        "filename": "TIP4_1Collection.code",
+        "line": 364
+      },
+      "568": {
+        "filename": "TIP4_1Collection.code",
+        "line": 365
+      },
+      "584": {
+        "filename": "TIP4_1Collection.code",
+        "line": 366
+      },
+      "600": {
+        "filename": "TIP4_1Collection.code",
+        "line": 367
+      },
+      "616": {
+        "filename": "TIP4_1Collection.code",
+        "line": 368
+      },
+      "632": {
+        "filename": "TIP4_1Collection.code",
+        "line": 369
+      },
+      "640": {
+        "filename": "TIP4_1Collection.code",
+        "line": 370
+      },
+      "664": {
+        "filename": "TIP4_1Collection.code",
+        "line": 371
+      },
+      "680": {
+        "filename": "TIP4_1Collection.code",
+        "line": 372
+      },
+      "704": {
+        "filename": "TIP4_1Collection.code",
+        "line": 373
+      },
+      "712": {
+        "filename": "TIP4_1Collection.code",
+        "line": 374
+      },
+      "720": {
+        "filename": "TIP4_1Collection.code",
+        "line": 375
+      },
+      "736": {
+        "filename": "TIP4_1Collection.code",
+        "line": 376
+      },
+      "752": {
+        "filename": "TIP4_1Collection.code",
+        "line": 377
+      },
+      "760": {
+        "filename": "TIP4_1Collection.code",
+        "line": 378
+      },
+      "784": {
+        "filename": "TIP4_1Collection.code",
+        "line": 379
+      },
+      "792": {
+        "filename": "TIP4_1Collection.code",
+        "line": 380
+      },
+      "800": {
+        "filename": "TIP4_1Collection.code",
+        "line": 381
+      },
+      "816": {
+        "filename": "TIP4_1Collection.code",
+        "line": 382
+      },
+      "832": {
+        "filename": "TIP4_1Collection.code",
+        "line": 383
+      },
+      "856": {
+        "filename": "TIP4_1Collection.code",
+        "line": 384
+      },
+      "864": {
+        "filename": "TIP4_1Collection.code",
+        "line": 385
+      },
+      "872": {
+        "filename": "TIP4_1Collection.code",
+        "line": 386
+      },
+      "880": {
+        "filename": "TIP4_1Collection.code",
+        "line": 387
+      },
+      "896": {
+        "filename": "TIP4_1Collection.code",
+        "line": 388
+      },
+      "912": {
+        "filename": "TIP4_1Collection.code",
+        "line": 390
+      },
+      "920": {
+        "filename": "TIP4_1Collection.code",
+        "line": 391
+      },
+      "936": {
+        "filename": "TIP4_1Collection.code",
+        "line": 392
+      },
+      "952": {
+        "filename": "TIP4_1Collection.code",
+        "line": 395
+      }
+    },
+    "2c66d84e87af9ffa8789d2e0e045f6c3ceaa3f46b2a434d54bb796c43c22c997": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      },
+      "16": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      },
+      "24": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      },
+      "56": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      },
+      "72": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      },
+      "80": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      },
+      "96": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      },
+      "112": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 59
+      }
+    },
+    "2fc092ec260c47bb4eb8857006c5f181fc297f58f3d8dc6e23a34d27b3007322": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 775
+      },
+      "16": {
+        "filename": "TIP4_1Collection.code",
+        "line": 776
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 777
+      },
+      "40": {
+        "filename": "TIP4_1Collection.code",
+        "line": 778
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 779
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 780
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 781
+      },
+      "88": {
+        "filename": "TIP4_1Collection.code",
+        "line": 782
+      },
+      "104": {
+        "filename": "TIP4_1Collection.code",
+        "line": 783
+      },
+      "120": {
+        "filename": "TIP4_1Collection.code",
+        "line": 784
+      },
+      "128": {
+        "filename": "TIP4_1Collection.code",
+        "line": 785
+      },
+      "144": {
+        "filename": "TIP4_1Collection.code",
+        "line": 786
+      },
+      "168": {
+        "filename": "TIP4_1Collection.code",
+        "line": 787
+      },
+      "184": {
+        "filename": "TIP4_1Collection.code",
+        "line": 788
+      },
+      "192": {
+        "filename": "TIP4_1Collection.code",
+        "line": 789
+      },
+      "208": {
+        "filename": "TIP4_1Collection.code",
+        "line": 790
+      },
+      "248": {
+        "filename": "TIP4_1Collection.code",
+        "line": 791
+      },
+      "264": {
+        "filename": "TIP4_1Collection.code",
+        "line": 792
+      },
+      "272": {
+        "filename": "TIP4_1Collection.code",
+        "line": 793
+      },
+      "288": {
+        "filename": "TIP4_1Collection.code",
+        "line": 794
+      },
+      "296": {
+        "filename": "TIP4_1Collection.code",
+        "line": 795
+      },
+      "312": {
+        "filename": "TIP4_1Collection.code",
+        "line": 796
+      },
+      "328": {
+        "filename": "TIP4_1Collection.code",
+        "line": 797
+      },
+      "336": {
+        "filename": "TIP4_1Collection.code",
+        "line": 798
+      },
+      "344": {
+        "filename": "TIP4_1Collection.code",
+        "line": 799
+      },
+      "360": {
+        "filename": "TIP4_1Collection.code",
+        "line": 800
+      },
+      "376": {
+        "filename": "TIP4_1Collection.code",
+        "line": 804
+      },
+      "384": {
+        "filename": "TIP4_1Collection.code",
+        "line": 805
+      },
+      "408": {
+        "filename": "TIP4_1Collection.code",
+        "line": 806
+      },
+      "424": {
+        "filename": "TIP4_1Collection.code",
+        "line": 807
+      },
+      "432": {
+        "filename": "TIP4_1Collection.code",
+        "line": 808
+      },
+      "448": {
+        "filename": "TIP4_1Collection.code",
+        "line": 812
+      },
+      "456": {
+        "filename": "TIP4_1Collection.code",
+        "line": 813
+      },
+      "472": {
+        "filename": "TIP4_1Collection.code",
+        "line": 816
+      }
+    },
+    "330f93bf08f57d3c5e8d77220d00a2fd83e454a0384dd9d8d036e876b24bb445": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "8": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "16": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "32": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "48": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "64": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "80": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "88": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "96": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "112": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "120": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "144": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "160": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "168": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "184": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "192": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "200": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "208": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "232": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "248": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "264": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      },
+      "280": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 88
+      }
+    },
+    "3353f9612113b703e8ab34f7fa77334033bb6b67e4aeb7fcbfa5c750144abefd": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 874
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 875
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 876
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 877
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 903
+      },
+      "88": {
+        "filename": "TIP4_1Collection.code",
+        "line": 904
+      },
+      "136": {
+        "filename": "TIP4_1Collection.code",
+        "line": 905
+      },
+      "144": {
+        "filename": "TIP4_1Collection.code",
+        "line": 906
+      }
+    },
+    "3d954590bb79132ddecd03539987362f425105227db9dfcb19f969fdfe3e6d20": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 743
+      },
+      "16": {
+        "filename": "TIP4_1Collection.code",
+        "line": 744
+      },
+      "32": {
+        "filename": "TIP4_1Collection.code",
+        "line": 745
+      },
+      "48": {
+        "filename": "TIP4_1Collection.code",
+        "line": 746
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 747
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 748
+      },
+      "88": {
+        "filename": "TIP4_1Collection.code",
+        "line": 749
+      },
+      "104": {
+        "filename": "TIP4_1Collection.code",
+        "line": 750
+      },
+      "120": {
+        "filename": "TIP4_1Collection.code",
+        "line": 751
+      },
+      "136": {
+        "filename": "TIP4_1Collection.code",
+        "line": 752
+      },
+      "152": {
+        "filename": "TIP4_1Collection.code",
+        "line": 753
+      },
+      "160": {
+        "filename": "TIP4_1Collection.code",
+        "line": 754
+      },
+      "176": {
+        "filename": "TIP4_1Collection.code",
+        "line": 755
+      },
+      "184": {
+        "filename": "TIP4_1Collection.code",
+        "line": 756
+      }
+    },
+    "4d4514ef3e6fcaf0b58b833936b0cdb8ca3eefa2f448e3d408c8a39fb9d07ddd": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 719
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 720
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 721
+      },
+      "32": {
+        "filename": "TIP4_1Collection.code",
+        "line": 722
+      },
+      "48": {
+        "filename": "TIP4_1Collection.code",
+        "line": 723
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 724
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 726
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 727
+      },
+      "88": {
+        "filename": "TIP4_1Collection.code",
+        "line": 728
+      },
+      "104": {
+        "filename": "TIP4_1Collection.code",
+        "line": 729
+      },
+      "120": {
+        "filename": "TIP4_1Collection.code",
+        "line": 730
+      },
+      "136": {
+        "filename": "TIP4_1Collection.code",
+        "line": 731
+      },
+      "152": {
+        "filename": "TIP4_1Collection.code",
+        "line": 732
+      },
+      "168": {
+        "filename": "TIP4_1Collection.code",
+        "line": 733
+      },
+      "192": {
+        "filename": "TIP4_1Collection.code",
+        "line": 734
+      },
+      "208": {
+        "filename": "TIP4_1Collection.code",
+        "line": 735
+      },
+      "216": {
+        "filename": "TIP4_1Collection.code",
+        "line": 736
+      }
+    },
+    "531e713970dd71a2245ae9219ad28e7091ffa4c0413723fe5f2fd29643615a6f": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 134
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 135
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 136
+      },
+      "48": {
+        "filename": "TIP4_1Collection.code",
+        "line": 137
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 138
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 139
+      },
+      "88": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 44
+      },
+      "104": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 44
+      },
+      "120": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 44
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 44
+      },
+      "144": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 44
+      },
+      "160": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 44
+      },
+      "168": {
+        "filename": "TIP4_1Collection.code",
+        "line": 150
+      },
+      "184": {
+        "filename": "TIP4_1Collection.code",
+        "line": 153
+      },
+      "192": {
+        "filename": "TIP4_1Collection.code",
+        "line": 154
+      },
+      "208": {
+        "filename": "TIP4_1Collection.code",
+        "line": 155
+      },
+      "216": {
+        "filename": "TIP4_1Collection.code",
+        "line": 156
+      },
+      "224": {
+        "filename": "TIP4_1Collection.code",
+        "line": 157
+      },
+      "240": {
+        "filename": "TIP4_1Collection.code",
+        "line": 158
+      },
+      "256": {
+        "filename": "TIP4_1Collection.code",
+        "line": 159
+      },
+      "264": {
+        "filename": "TIP4_1Collection.code",
+        "line": 160
+      },
+      "272": {
+        "filename": "TIP4_1Collection.code",
+        "line": 161
+      },
+      "280": {
+        "filename": "TIP4_1Collection.code",
+        "line": 162
+      },
+      "304": {
+        "filename": "TIP4_1Collection.code",
+        "line": 163
+      },
+      "312": {
+        "filename": "TIP4_1Collection.code",
+        "line": 164
+      },
+      "360": {
+        "filename": "TIP4_1Collection.code",
+        "line": 165
+      },
+      "384": {
+        "filename": "TIP4_1Collection.code",
+        "line": 166
+      },
+      "392": {
+        "filename": "TIP4_1Collection.code",
+        "line": 167
+      },
+      "400": {
+        "filename": "TIP4_1Collection.code",
+        "line": 168
+      },
+      "408": {
+        "filename": "TIP4_1Collection.code",
+        "line": 170
+      },
+      "424": {
+        "filename": "TIP4_1Collection.code",
+        "line": 171
+      },
+      "440": {
+        "filename": "TIP4_1Collection.code",
+        "line": 172
+      },
+      "448": {
+        "filename": "TIP4_1Collection.code",
+        "line": 173
+      },
+      "464": {
+        "filename": "TIP4_1Collection.code",
+        "line": 174
+      },
+      "472": {
+        "filename": "TIP4_1Collection.code",
+        "line": 175
+      },
+      "488": {
+        "filename": "TIP4_1Collection.code",
+        "line": 176
+      },
+      "504": {
+        "filename": "TIP4_1Collection.code",
+        "line": 177
+      },
+      "520": {
+        "filename": "TIP4_1Collection.code",
+        "line": 178
+      },
+      "536": {
+        "filename": "TIP4_1Collection.code",
+        "line": 179
+      },
+      "544": {
+        "filename": "TIP4_1Collection.code",
+        "line": 180
+      },
+      "568": {
+        "filename": "TIP4_1Collection.code",
+        "line": 181
+      },
+      "584": {
+        "filename": "TIP4_1Collection.code",
+        "line": 182
+      },
+      "608": {
+        "filename": "TIP4_1Collection.code",
+        "line": 183
+      },
+      "616": {
+        "filename": "TIP4_1Collection.code",
+        "line": 184
+      },
+      "624": {
+        "filename": "TIP4_1Collection.code",
+        "line": 185
+      },
+      "640": {
+        "filename": "TIP4_1Collection.code",
+        "line": 186
+      },
+      "656": {
+        "filename": "TIP4_1Collection.code",
+        "line": 187
+      },
+      "672": {
+        "filename": "TIP4_1Collection.code",
+        "line": 188
+      },
+      "688": {
+        "filename": "TIP4_1Collection.code",
+        "line": 189
+      },
+      "704": {
+        "filename": "TIP4_1Collection.code",
+        "line": 190
+      },
+      "720": {
+        "filename": "TIP4_1Collection.code",
+        "line": 191
+      },
+      "744": {
+        "filename": "TIP4_1Collection.code",
+        "line": 192
+      },
+      "752": {
+        "filename": "TIP4_1Collection.code",
+        "line": 193
+      },
+      "760": {
+        "filename": "TIP4_1Collection.code",
+        "line": 194
+      },
+      "776": {
+        "filename": "TIP4_1Collection.code",
+        "line": 195
+      },
+      "792": {
+        "filename": "TIP4_1Collection.code",
+        "line": 197
+      },
+      "800": {
+        "filename": "TIP4_1Collection.code",
+        "line": 198
+      },
+      "816": {
+        "filename": "TIP4_1Collection.code",
+        "line": 199
+      },
+      "832": {
+        "filename": "TIP4_1Collection.code",
+        "line": 202
+      }
+    },
+    "661510a747d6c1d9478d69fcee161dae7d3a3197c02351316a8b586361a7bb15": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "8": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "56": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "72": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "88": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "96": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "104": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "120": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "136": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "152": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "160": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "192": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "208": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "216": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "224": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "232": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "264": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "280": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "296": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "320": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "352": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "360": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "368": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "376": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "384": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "400": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      }
+    },
+    "67e39e8b337474771221b32b2c0e2d4363e89401992b4b5a89124dd82f008942": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "6cb8567cf126b5ac3f2e13c43ff7583e57cfccdabc293e2bc4152dda3fd17179": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 221
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 222
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 223
+      },
+      "48": {
+        "filename": "TIP4_1Collection.code",
+        "line": 224
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 225
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 226
+      },
+      "88": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 50
+      },
+      "104": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 50
+      },
+      "120": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 50
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 50
+      },
+      "144": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 50
+      },
+      "160": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 50
+      },
+      "168": {
+        "filename": "TIP4_1Collection.code",
+        "line": 237
+      },
+      "184": {
+        "filename": "TIP4_1Collection.code",
+        "line": 240
+      },
+      "192": {
+        "filename": "TIP4_1Collection.code",
+        "line": 241
+      },
+      "208": {
+        "filename": "TIP4_1Collection.code",
+        "line": 242
+      },
+      "216": {
+        "filename": "TIP4_1Collection.code",
+        "line": 243
+      },
+      "224": {
+        "filename": "TIP4_1Collection.code",
+        "line": 244
+      },
+      "240": {
+        "filename": "TIP4_1Collection.code",
+        "line": 245
+      },
+      "256": {
+        "filename": "TIP4_1Collection.code",
+        "line": 246
+      },
+      "264": {
+        "filename": "TIP4_1Collection.code",
+        "line": 247
+      },
+      "272": {
+        "filename": "TIP4_1Collection.code",
+        "line": 248
+      },
+      "280": {
+        "filename": "TIP4_1Collection.code",
+        "line": 249
+      },
+      "304": {
+        "filename": "TIP4_1Collection.code",
+        "line": 250
+      },
+      "312": {
+        "filename": "TIP4_1Collection.code",
+        "line": 251
+      },
+      "360": {
+        "filename": "TIP4_1Collection.code",
+        "line": 252
+      },
+      "384": {
+        "filename": "TIP4_1Collection.code",
+        "line": 253
+      },
+      "400": {
+        "filename": "TIP4_1Collection.code",
+        "line": 254
+      },
+      "408": {
+        "filename": "TIP4_1Collection.code",
+        "line": 255
+      },
+      "416": {
+        "filename": "TIP4_1Collection.code",
+        "line": 257
+      },
+      "432": {
+        "filename": "TIP4_1Collection.code",
+        "line": 258
+      },
+      "448": {
+        "filename": "TIP4_1Collection.code",
+        "line": 259
+      },
+      "456": {
+        "filename": "TIP4_1Collection.code",
+        "line": 260
+      },
+      "472": {
+        "filename": "TIP4_1Collection.code",
+        "line": 261
+      },
+      "480": {
+        "filename": "TIP4_1Collection.code",
+        "line": 262
+      },
+      "496": {
+        "filename": "TIP4_1Collection.code",
+        "line": 263
+      },
+      "512": {
+        "filename": "TIP4_1Collection.code",
+        "line": 264
+      },
+      "528": {
+        "filename": "TIP4_1Collection.code",
+        "line": 265
+      },
+      "544": {
+        "filename": "TIP4_1Collection.code",
+        "line": 266
+      },
+      "552": {
+        "filename": "TIP4_1Collection.code",
+        "line": 267
+      },
+      "576": {
+        "filename": "TIP4_1Collection.code",
+        "line": 268
+      },
+      "592": {
+        "filename": "TIP4_1Collection.code",
+        "line": 269
+      },
+      "616": {
+        "filename": "TIP4_1Collection.code",
+        "line": 270
+      },
+      "624": {
+        "filename": "TIP4_1Collection.code",
+        "line": 271
+      },
+      "632": {
+        "filename": "TIP4_1Collection.code",
+        "line": 272
+      },
+      "648": {
+        "filename": "TIP4_1Collection.code",
+        "line": 273
+      },
+      "664": {
+        "filename": "TIP4_1Collection.code",
+        "line": 274
+      },
+      "672": {
+        "filename": "TIP4_1Collection.code",
+        "line": 275
+      },
+      "696": {
+        "filename": "TIP4_1Collection.code",
+        "line": 276
+      },
+      "704": {
+        "filename": "TIP4_1Collection.code",
+        "line": 277
+      },
+      "712": {
+        "filename": "TIP4_1Collection.code",
+        "line": 278
+      },
+      "728": {
+        "filename": "TIP4_1Collection.code",
+        "line": 279
+      },
+      "744": {
+        "filename": "TIP4_1Collection.code",
+        "line": 280
+      },
+      "768": {
+        "filename": "TIP4_1Collection.code",
+        "line": 281
+      },
+      "784": {
+        "filename": "TIP4_1Collection.code",
+        "line": 282
+      },
+      "792": {
+        "filename": "TIP4_1Collection.code",
+        "line": 283
+      },
+      "800": {
+        "filename": "TIP4_1Collection.code",
+        "line": 284
+      },
+      "816": {
+        "filename": "TIP4_1Collection.code",
+        "line": 285
+      },
+      "832": {
+        "filename": "TIP4_1Collection.code",
+        "line": 287
+      },
+      "840": {
+        "filename": "TIP4_1Collection.code",
+        "line": 288
+      },
+      "856": {
+        "filename": "TIP4_1Collection.code",
+        "line": 289
+      },
+      "872": {
+        "filename": "TIP4_1Collection.code",
+        "line": 292
+      }
+    },
+    "757c6a01382576bb43c8054c6ca6826fdd8506a07f9c3a65fb148a5dfe6d6cc7": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "TIP4_1Collection.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "TIP4_1Collection.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "TIP4_1Collection.code",
+        "line": 13
+      },
+      "96": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 23
+      },
+      "112": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 25
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "176": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "192": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "200": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "216": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "224": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "240": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "256": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "264": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 27
+      },
+      "280": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "328": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "376": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "384": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "432": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "440": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "488": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "496": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "504": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "512": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "528": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "536": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "552": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "568": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 28
+      },
+      "584": {
+        "filename": "TIP4_1Collection.code",
+        "line": 44
+      },
+      "600": {
+        "filename": "TIP4_1Collection.code",
+        "line": 47
+      }
+    },
+    "760d1045fd2f2441d62a6c5f7ee030b9893f13e7361a68b49480c849c2011e67": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 697
+      },
+      "16": {
+        "filename": "TIP4_1Collection.code",
+        "line": 698
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 699
+      },
+      "40": {
+        "filename": "TIP4_1Collection.code",
+        "line": 700
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 701
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 702
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 703
+      },
+      "96": {
+        "filename": "TIP4_1Collection.code",
+        "line": 704
+      },
+      "104": {
+        "filename": "TIP4_1Collection.code",
+        "line": 705
+      },
+      "120": {
+        "filename": "TIP4_1Collection.code",
+        "line": 706
+      },
+      "128": {
+        "filename": "TIP4_1Collection.code",
+        "line": 707
+      },
+      "144": {
+        "filename": "TIP4_1Collection.code",
+        "line": 708
+      },
+      "160": {
+        "filename": "TIP4_1Collection.code",
+        "line": 709
+      },
+      "176": {
+        "filename": "TIP4_1Collection.code",
+        "line": 710
+      },
+      "192": {
+        "filename": "TIP4_1Collection.code",
+        "line": 711
+      }
+    },
+    "77a8b71a65efd77165d32c9605b155eb1a5561c1e05392162c9b8671c04c84cb": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "16": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "24": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "56": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "72": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "80": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "96": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "112": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 45
+      }
+    },
+    "7aa727e5021a01fd45582c401e76bd77151c3f72aa977acf77b637641d224dc0": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 878
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 879
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 880
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 881
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 884
+      },
+      "88": {
+        "filename": "TIP4_1Collection.code",
+        "line": 885
+      },
+      "136": {
+        "filename": "TIP4_1Collection.code",
+        "line": 886
+      },
+      "144": {
+        "filename": "TIP4_1Collection.code",
+        "line": 887
+      },
+      "160": {
+        "filename": "TIP4_1Collection.code",
+        "line": 890
+      },
+      "168": {
+        "filename": "TIP4_1Collection.code",
+        "line": 891
+      },
+      "216": {
+        "filename": "TIP4_1Collection.code",
+        "line": 892
+      },
+      "224": {
+        "filename": "TIP4_1Collection.code",
+        "line": 893
+      },
+      "240": {
+        "filename": "TIP4_1Collection.code",
+        "line": 896
+      },
+      "248": {
+        "filename": "TIP4_1Collection.code",
+        "line": 897
+      },
+      "296": {
+        "filename": "TIP4_1Collection.code",
+        "line": 898
+      },
+      "304": {
+        "filename": "TIP4_1Collection.code",
+        "line": 899
+      }
+    },
+    "801179bac57e9b9e099ee7b0720348eb96354a4febe7e131fe7dfa8a40aa750b": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 78
+      },
+      "8": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 78
+      },
+      "16": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "32": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "48": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "56": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      }
+    },
+    "81693db6976c4696c5e2638687665f700eed80a6863f1cefdd8f12ce8249975b": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 65
+      },
+      "16": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 65
+      },
+      "32": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 66
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 66
+      },
+      "56": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 67
+      },
+      "72": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      },
+      "88": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      },
+      "104": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      },
+      "120": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      },
+      "152": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      },
+      "168": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      },
+      "184": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      },
+      "192": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 68
+      }
+    },
+    "8f08fb63b3538b2b1d4361d9a2d6885223593afdacc3bf7224bd5c481540ec82": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 603
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 604
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 605
+      },
+      "48": {
+        "filename": "TIP4_1Collection.code",
+        "line": 606
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 607
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 608
+      },
+      "88": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 13
+      },
+      "104": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 13
+      },
+      "120": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 13
+      },
+      "128": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 13
+      },
+      "144": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 13
+      },
+      "160": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 13
+      },
+      "176": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 13
+      },
+      "184": {
+        "filename": "TIP4_1Collection.code",
+        "line": 620
+      },
+      "200": {
+        "filename": "TIP4_1Collection.code",
+        "line": 623
+      },
+      "208": {
+        "filename": "TIP4_1Collection.code",
+        "line": 624
+      },
+      "224": {
+        "filename": "TIP4_1Collection.code",
+        "line": 625
+      },
+      "232": {
+        "filename": "TIP4_1Collection.code",
+        "line": 626
+      },
+      "240": {
+        "filename": "TIP4_1Collection.code",
+        "line": 627
+      },
+      "256": {
+        "filename": "TIP4_1Collection.code",
+        "line": 628
+      },
+      "272": {
+        "filename": "TIP4_1Collection.code",
+        "line": 629
+      },
+      "280": {
+        "filename": "TIP4_1Collection.code",
+        "line": 630
+      },
+      "288": {
+        "filename": "TIP4_1Collection.code",
+        "line": 631
+      },
+      "296": {
+        "filename": "TIP4_1Collection.code",
+        "line": 632
+      },
+      "320": {
+        "filename": "TIP4_1Collection.code",
+        "line": 633
+      },
+      "328": {
+        "filename": "TIP4_1Collection.code",
+        "line": 634
+      },
+      "376": {
+        "filename": "TIP4_1Collection.code",
+        "line": 635
+      },
+      "400": {
+        "filename": "TIP4_1Collection.code",
+        "line": 636
+      },
+      "416": {
+        "filename": "TIP4_1Collection.code",
+        "line": 637
+      },
+      "424": {
+        "filename": "TIP4_1Collection.code",
+        "line": 638
+      },
+      "432": {
+        "filename": "TIP4_1Collection.code",
+        "line": 640
+      },
+      "448": {
+        "filename": "TIP4_1Collection.code",
+        "line": 641
+      },
+      "464": {
+        "filename": "TIP4_1Collection.code",
+        "line": 642
+      },
+      "472": {
+        "filename": "TIP4_1Collection.code",
+        "line": 643
+      },
+      "488": {
+        "filename": "TIP4_1Collection.code",
+        "line": 644
+      },
+      "496": {
+        "filename": "TIP4_1Collection.code",
+        "line": 645
+      },
+      "512": {
+        "filename": "TIP4_1Collection.code",
+        "line": 646
+      },
+      "528": {
+        "filename": "TIP4_1Collection.code",
+        "line": 647
+      },
+      "544": {
+        "filename": "TIP4_1Collection.code",
+        "line": 648
+      },
+      "560": {
+        "filename": "TIP4_1Collection.code",
+        "line": 649
+      },
+      "568": {
+        "filename": "TIP4_1Collection.code",
+        "line": 650
+      },
+      "592": {
+        "filename": "TIP4_1Collection.code",
+        "line": 651
+      },
+      "608": {
+        "filename": "TIP4_1Collection.code",
+        "line": 652
+      },
+      "632": {
+        "filename": "TIP4_1Collection.code",
+        "line": 653
+      },
+      "640": {
+        "filename": "TIP4_1Collection.code",
+        "line": 654
+      },
+      "648": {
+        "filename": "TIP4_1Collection.code",
+        "line": 655
+      },
+      "664": {
+        "filename": "TIP4_1Collection.code",
+        "line": 656
+      },
+      "680": {
+        "filename": "TIP4_1Collection.code",
+        "line": 657
+      },
+      "696": {
+        "filename": "TIP4_1Collection.code",
+        "line": 658
+      },
+      "712": {
+        "filename": "TIP4_1Collection.code",
+        "line": 659
+      },
+      "728": {
+        "filename": "TIP4_1Collection.code",
+        "line": 660
+      },
+      "744": {
+        "filename": "TIP4_1Collection.code",
+        "line": 661
+      },
+      "768": {
+        "filename": "TIP4_1Collection.code",
+        "line": 662
+      },
+      "784": {
+        "filename": "TIP4_1Collection.code",
+        "line": 663
+      },
+      "792": {
+        "filename": "TIP4_1Collection.code",
+        "line": 664
+      },
+      "808": {
+        "filename": "TIP4_1Collection.code",
+        "line": 665
+      },
+      "824": {
+        "filename": "TIP4_1Collection.code",
+        "line": 667
+      },
+      "832": {
+        "filename": "TIP4_1Collection.code",
+        "line": 668
+      },
+      "848": {
+        "filename": "TIP4_1Collection.code",
+        "line": 669
+      },
+      "864": {
+        "filename": "TIP4_1Collection.code",
+        "line": 672
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "9ccdbf037ae1b7fb0ec65c82c7f8e8a78ad48ae2cf019c33100b2b69dcdb9af9": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "8": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "16": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "24": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "32": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "40": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "48": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "64": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "72": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "112": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "120": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "144": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      }
+    },
+    "a968b24a9ba1504202c742585c04f4414816f9077ae0c1395acc20e73a0035af": {
+      "0": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "16": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "24": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "40": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "56": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "72": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "80": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "96": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "112": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "128": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "144": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "160": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "168": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "192": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "200": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      },
+      "208": {
+        "filename": "../node_modules/@itgold/everscale-tip/contracts/TIP6/TIP6.sol",
+        "line": 14
+      }
+    },
+    "b4677984534359f6f242e85e6ae9e210e41ba9f4dda37c92891024cd5a801ee9": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 50
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 51
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 52
+      },
+      "48": {
+        "filename": "TIP4_1Collection.code",
+        "line": 53
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 54
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 55
+      },
+      "88": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 38
+      },
+      "104": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 38
+      },
+      "120": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 38
+      },
+      "128": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 38
+      },
+      "144": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 38
+      },
+      "160": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 38
+      },
+      "168": {
+        "filename": "TIP4_1Collection.code",
+        "line": 66
+      },
+      "184": {
+        "filename": "TIP4_1Collection.code",
+        "line": 69
+      },
+      "192": {
+        "filename": "TIP4_1Collection.code",
+        "line": 70
+      },
+      "208": {
+        "filename": "TIP4_1Collection.code",
+        "line": 71
+      },
+      "216": {
+        "filename": "TIP4_1Collection.code",
+        "line": 72
+      },
+      "224": {
+        "filename": "TIP4_1Collection.code",
+        "line": 73
+      },
+      "240": {
+        "filename": "TIP4_1Collection.code",
+        "line": 74
+      },
+      "256": {
+        "filename": "TIP4_1Collection.code",
+        "line": 75
+      },
+      "264": {
+        "filename": "TIP4_1Collection.code",
+        "line": 76
+      },
+      "272": {
+        "filename": "TIP4_1Collection.code",
+        "line": 77
+      },
+      "280": {
+        "filename": "TIP4_1Collection.code",
+        "line": 78
+      },
+      "304": {
+        "filename": "TIP4_1Collection.code",
+        "line": 79
+      },
+      "312": {
+        "filename": "TIP4_1Collection.code",
+        "line": 80
+      },
+      "360": {
+        "filename": "TIP4_1Collection.code",
+        "line": 81
+      },
+      "384": {
+        "filename": "TIP4_1Collection.code",
+        "line": 82
+      },
+      "400": {
+        "filename": "TIP4_1Collection.code",
+        "line": 83
+      },
+      "408": {
+        "filename": "TIP4_1Collection.code",
+        "line": 84
+      },
+      "416": {
+        "filename": "TIP4_1Collection.code",
+        "line": 86
+      },
+      "432": {
+        "filename": "TIP4_1Collection.code",
+        "line": 87
+      },
+      "448": {
+        "filename": "TIP4_1Collection.code",
+        "line": 88
+      },
+      "456": {
+        "filename": "TIP4_1Collection.code",
+        "line": 89
+      },
+      "472": {
+        "filename": "TIP4_1Collection.code",
+        "line": 90
+      },
+      "480": {
+        "filename": "TIP4_1Collection.code",
+        "line": 91
+      },
+      "496": {
+        "filename": "TIP4_1Collection.code",
+        "line": 92
+      },
+      "512": {
+        "filename": "TIP4_1Collection.code",
+        "line": 93
+      },
+      "528": {
+        "filename": "TIP4_1Collection.code",
+        "line": 94
+      },
+      "544": {
+        "filename": "TIP4_1Collection.code",
+        "line": 95
+      },
+      "552": {
+        "filename": "TIP4_1Collection.code",
+        "line": 96
+      },
+      "576": {
+        "filename": "TIP4_1Collection.code",
+        "line": 97
+      },
+      "592": {
+        "filename": "TIP4_1Collection.code",
+        "line": 98
+      },
+      "616": {
+        "filename": "TIP4_1Collection.code",
+        "line": 99
+      },
+      "624": {
+        "filename": "TIP4_1Collection.code",
+        "line": 100
+      },
+      "632": {
+        "filename": "TIP4_1Collection.code",
+        "line": 101
+      },
+      "648": {
+        "filename": "TIP4_1Collection.code",
+        "line": 102
+      },
+      "664": {
+        "filename": "TIP4_1Collection.code",
+        "line": 103
+      },
+      "680": {
+        "filename": "TIP4_1Collection.code",
+        "line": 104
+      },
+      "696": {
+        "filename": "TIP4_1Collection.code",
+        "line": 105
+      },
+      "712": {
+        "filename": "TIP4_1Collection.code",
+        "line": 106
+      },
+      "728": {
+        "filename": "TIP4_1Collection.code",
+        "line": 107
+      },
+      "752": {
+        "filename": "TIP4_1Collection.code",
+        "line": 108
+      },
+      "768": {
+        "filename": "TIP4_1Collection.code",
+        "line": 109
+      },
+      "776": {
+        "filename": "TIP4_1Collection.code",
+        "line": 110
+      },
+      "792": {
+        "filename": "TIP4_1Collection.code",
+        "line": 111
+      },
+      "808": {
+        "filename": "TIP4_1Collection.code",
+        "line": 113
+      },
+      "816": {
+        "filename": "TIP4_1Collection.code",
+        "line": 114
+      },
+      "832": {
+        "filename": "TIP4_1Collection.code",
+        "line": 115
+      },
+      "848": {
+        "filename": "TIP4_1Collection.code",
+        "line": 118
+      }
+    },
+    "c0fc1ec2f691df676cfb7b881c43927cc78f30f756d77240b25de0ba5ab58d74": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 907
+      },
+      "8": {
+        "filename": "TIP4_1Collection.code",
+        "line": 908
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 909
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 910
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 913
+      },
+      "88": {
+        "filename": "TIP4_1Collection.code",
+        "line": 914
+      },
+      "136": {
+        "filename": "TIP4_1Collection.code",
+        "line": 915
+      },
+      "144": {
+        "filename": "TIP4_1Collection.code",
+        "line": 916
+      }
+    },
+    "cf066dec9cbfd9c003547d6449ee54229afe2f84c315cdf91c9257f1f5033de7": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 820
+      },
+      "16": {
+        "filename": "TIP4_1Collection.code",
+        "line": 821
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 822
+      },
+      "40": {
+        "filename": "TIP4_1Collection.code",
+        "line": 823
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 824
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 825
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 826
+      },
+      "96": {
+        "filename": "TIP4_1Collection.code",
+        "line": 829
+      },
+      "112": {
+        "filename": "TIP4_1Collection.code",
+        "line": 830
+      },
+      "120": {
+        "filename": "TIP4_1Collection.code",
+        "line": 831
+      },
+      "136": {
+        "filename": "TIP4_1Collection.code",
+        "line": 832
+      },
+      "160": {
+        "filename": "TIP4_1Collection.code",
+        "line": 833
+      },
+      "176": {
+        "filename": "TIP4_1Collection.code",
+        "line": 834
+      },
+      "184": {
+        "filename": "TIP4_1Collection.code",
+        "line": 835
+      },
+      "200": {
+        "filename": "TIP4_1Collection.code",
+        "line": 836
+      },
+      "208": {
+        "filename": "TIP4_1Collection.code",
+        "line": 837
+      },
+      "224": {
+        "filename": "TIP4_1Collection.code",
+        "line": 838
+      },
+      "232": {
+        "filename": "TIP4_1Collection.code",
+        "line": 839
+      },
+      "240": {
+        "filename": "TIP4_1Collection.code",
+        "line": 840
+      },
+      "256": {
+        "filename": "TIP4_1Collection.code",
+        "line": 841
+      },
+      "264": {
+        "filename": "TIP4_1Collection.code",
+        "line": 842
+      },
+      "272": {
+        "filename": "TIP4_1Collection.code",
+        "line": 844
+      },
+      "280": {
+        "filename": "TIP4_1Collection.code",
+        "line": 845
+      },
+      "288": {
+        "filename": "TIP4_1Collection.code",
+        "line": 846
+      },
+      "304": {
+        "filename": "TIP4_1Collection.code",
+        "line": 848
+      },
+      "312": {
+        "filename": "TIP4_1Collection.code",
+        "line": 849
+      },
+      "328": {
+        "filename": "TIP4_1Collection.code",
+        "line": 850
+      },
+      "344": {
+        "filename": "TIP4_1Collection.code",
+        "line": 852
+      },
+      "352": {
+        "filename": "TIP4_1Collection.code",
+        "line": 853
+      },
+      "368": {
+        "filename": "TIP4_1Collection.code",
+        "line": 854
+      },
+      "376": {
+        "filename": "TIP4_1Collection.code",
+        "line": 855
+      },
+      "392": {
+        "filename": "TIP4_1Collection.code",
+        "line": 857
+      },
+      "400": {
+        "filename": "TIP4_1Collection.code",
+        "line": 858
+      },
+      "416": {
+        "filename": "TIP4_1Collection.code",
+        "line": 859
+      },
+      "424": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "440": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "448": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "456": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "480": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "496": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "520": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "528": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "568": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "576": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "584": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "600": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "616": {
+        "filename": "TIP4_1Collection.code",
+        "line": 861
+      },
+      "632": {
+        "filename": "TIP4_1Collection.code",
+        "line": 862
+      },
+      "640": {
+        "filename": "TIP4_1Collection.code",
+        "line": 863
+      },
+      "656": {
+        "filename": "TIP4_1Collection.code",
+        "line": 864
+      },
+      "664": {
+        "filename": "TIP4_1Collection.code",
+        "line": 865
+      },
+      "680": {
+        "filename": "TIP4_1Collection.code",
+        "line": 866
+      },
+      "696": {
+        "filename": "TIP4_1Collection.code",
+        "line": 867
+      },
+      "704": {
+        "filename": "TIP4_1Collection.code",
+        "line": 868
+      },
+      "720": {
+        "filename": "TIP4_1Collection.code",
+        "line": 871
+      }
+    },
+    "d3f2b1249b540372674fd61f7a8f6d4287139933e5e10ab78733c90080ea690b": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "8": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "48": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "64": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "72": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "80": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      }
+    },
+    "e5bcdd2119476d1431fe608d0e167cc2a472cc103c84b8c2f7d0157c12a715a8": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "8": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 759
+      },
+      "16": {
+        "filename": "TIP4_1Collection.code",
+        "line": 760
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 761
+      },
+      "40": {
+        "filename": "TIP4_1Collection.code",
+        "line": 762
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 763
+      },
+      "64": {
+        "filename": "TIP4_1Collection.code",
+        "line": 764
+      },
+      "80": {
+        "filename": "TIP4_1Collection.code",
+        "line": 765
+      },
+      "88": {
+        "filename": "TIP4_1Collection.code",
+        "line": 766
+      },
+      "96": {
+        "filename": "TIP4_1Collection.code",
+        "line": 767
+      },
+      "112": {
+        "filename": "TIP4_1Collection.code",
+        "line": 768
+      },
+      "128": {
+        "filename": "TIP4_1Collection.code",
+        "line": 769
+      },
+      "136": {
+        "filename": "TIP4_1Collection.code",
+        "line": 770
+      },
+      "144": {
+        "filename": "TIP4_1Collection.code",
+        "line": 771
+      }
+    },
+    "f0f862570b8c0c159cf1a4d6ad2262eab4e0b744e988a5c089b6cc1fd03c2020": {
+      "0": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "8": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      },
+      "24": {
+        "filename": "../contracts/TIP/TIP4_1/TIP4_1Collection.sol",
+        "line": 79
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 801
+      },
+      "16": {
+        "filename": "TIP4_1Collection.code",
+        "line": 802
+      }
+    },
+    "fbc2e4da1d5936404eca65567ded4784172f82906959388b23805fba7fcd0b0b": {
+      "0": {
+        "filename": "TIP4_1Collection.code",
+        "line": 714
+      },
+      "16": {
+        "filename": "TIP4_1Collection.code",
+        "line": 715
+      },
+      "24": {
+        "filename": "TIP4_1Collection.code",
+        "line": 716
+      },
+      "40": {
+        "filename": "TIP4_1Collection.code",
+        "line": 717
+      },
+      "56": {
+        "filename": "TIP4_1Collection.code",
+        "line": 718
+      },
+      "72": {
+        "filename": "TIP4_1Collection.code",
+        "line": 738
+      }
+    },
+    "ff10149f64d3e845d6280ad48b03fa3482fac8060d635f14fcbcc2a3b3066376": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,1064 @@
+{
+  "map": {
+    "0139c5dc4ee3094dafb283f1ed7367979750f12bfcaffd38ad5527b5ea0113c6": {
+      "0": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "8": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "24": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "40": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      }
+    },
+    "0bdfa124820a4895c1debe0070ee52e1adab28eb8cb93fd73e52c36f8a391ad4": {
+      "0": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "8": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "16": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "56": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "72": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "80": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "88": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      }
+    },
+    "11c52d668aaf4dc63a1a829bdf9208f506fed55d1df78e3c61facaa0a45a9e25": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 349
+      },
+      "16": {
+        "filename": "NftPlatform.code",
+        "line": 352
+      }
+    },
+    "16f871a2c2c47d87e95633b197dedacc04e17d94342d43f1b97a62b43accce80": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 299
+      },
+      "16": {
+        "filename": "NftPlatform.code",
+        "line": 300
+      },
+      "24": {
+        "filename": "NftPlatform.code",
+        "line": 301
+      },
+      "40": {
+        "filename": "NftPlatform.code",
+        "line": 302
+      },
+      "56": {
+        "filename": "NftPlatform.code",
+        "line": 303
+      },
+      "72": {
+        "filename": "NftPlatform.code",
+        "line": 304
+      },
+      "360": {
+        "filename": "NftPlatform.code",
+        "line": 305
+      },
+      "376": {
+        "filename": "NftPlatform.code",
+        "line": 306
+      },
+      "384": {
+        "filename": "NftPlatform.code",
+        "line": 307
+      },
+      "400": {
+        "filename": "NftPlatform.code",
+        "line": 310
+      },
+      "416": {
+        "filename": "NftPlatform.code",
+        "line": 311
+      },
+      "424": {
+        "filename": "NftPlatform.code",
+        "line": 312
+      },
+      "440": {
+        "filename": "NftPlatform.code",
+        "line": 313
+      },
+      "464": {
+        "filename": "NftPlatform.code",
+        "line": 314
+      },
+      "480": {
+        "filename": "NftPlatform.code",
+        "line": 315
+      },
+      "488": {
+        "filename": "NftPlatform.code",
+        "line": 316
+      },
+      "504": {
+        "filename": "NftPlatform.code",
+        "line": 317
+      },
+      "512": {
+        "filename": "NftPlatform.code",
+        "line": 318
+      },
+      "528": {
+        "filename": "NftPlatform.code",
+        "line": 319
+      },
+      "536": {
+        "filename": "NftPlatform.code",
+        "line": 320
+      },
+      "544": {
+        "filename": "NftPlatform.code",
+        "line": 321
+      },
+      "560": {
+        "filename": "NftPlatform.code",
+        "line": 322
+      },
+      "568": {
+        "filename": "NftPlatform.code",
+        "line": 323
+      },
+      "576": {
+        "filename": "NftPlatform.code",
+        "line": 325
+      },
+      "584": {
+        "filename": "NftPlatform.code",
+        "line": 326
+      },
+      "592": {
+        "filename": "NftPlatform.code",
+        "line": 327
+      },
+      "608": {
+        "filename": "NftPlatform.code",
+        "line": 329
+      },
+      "616": {
+        "filename": "NftPlatform.code",
+        "line": 330
+      },
+      "632": {
+        "filename": "NftPlatform.code",
+        "line": 331
+      },
+      "648": {
+        "filename": "NftPlatform.code",
+        "line": 333
+      },
+      "656": {
+        "filename": "NftPlatform.code",
+        "line": 334
+      },
+      "672": {
+        "filename": "NftPlatform.code",
+        "line": 335
+      },
+      "680": {
+        "filename": "NftPlatform.code",
+        "line": 336
+      },
+      "696": {
+        "filename": "NftPlatform.code",
+        "line": 338
+      },
+      "704": {
+        "filename": "NftPlatform.code",
+        "line": 339
+      },
+      "720": {
+        "filename": "NftPlatform.code",
+        "line": 340
+      },
+      "728": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "744": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "752": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "760": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "776": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "784": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "800": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "824": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "832": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "872": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "880": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "888": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "904": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "920": {
+        "filename": "NftPlatform.code",
+        "line": 342
+      },
+      "936": {
+        "filename": "NftPlatform.code",
+        "line": 343
+      },
+      "944": {
+        "filename": "NftPlatform.code",
+        "line": 344
+      },
+      "960": {
+        "filename": "NftPlatform.code",
+        "line": 345
+      },
+      "968": {
+        "filename": "NftPlatform.code",
+        "line": 346
+      },
+      "984": {
+        "filename": "NftPlatform.code",
+        "line": 347
+      },
+      "1000": {
+        "filename": "NftPlatform.code",
+        "line": 348
+      }
+    },
+    "227f298a4f1e2f37b7281b3791bd1a008d613d4bfe6673c8cc261d5adb5700f2": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "2a1a01af00d35509bbf76dfb0b0409644793f5d053fc243185f0117a869548e2": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "2e1814b9dd71d768a3295b605ae2354a3f5cb9ed24cec7ac47c7abc280c63b99": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 202
+      },
+      "16": {
+        "filename": "NftPlatform.code",
+        "line": 203
+      },
+      "24": {
+        "filename": "NftPlatform.code",
+        "line": 204
+      },
+      "40": {
+        "filename": "NftPlatform.code",
+        "line": 205
+      },
+      "56": {
+        "filename": "NftPlatform.code",
+        "line": 206
+      },
+      "72": {
+        "filename": "NftPlatform.code",
+        "line": 207
+      },
+      "80": {
+        "filename": "NftPlatform.code",
+        "line": 208
+      },
+      "96": {
+        "filename": "NftPlatform.code",
+        "line": 209
+      },
+      "104": {
+        "filename": "NftPlatform.code",
+        "line": 210
+      },
+      "120": {
+        "filename": "NftPlatform.code",
+        "line": 211
+      },
+      "128": {
+        "filename": "NftPlatform.code",
+        "line": 212
+      },
+      "136": {
+        "filename": "NftPlatform.code",
+        "line": 213
+      },
+      "152": {
+        "filename": "NftPlatform.code",
+        "line": 214
+      },
+      "168": {
+        "filename": "NftPlatform.code",
+        "line": 215
+      },
+      "176": {
+        "filename": "NftPlatform.code",
+        "line": 216
+      },
+      "200": {
+        "filename": "NftPlatform.code",
+        "line": 218
+      },
+      "208": {
+        "filename": "NftPlatform.code",
+        "line": 219
+      },
+      "216": {
+        "filename": "NftPlatform.code",
+        "line": 221
+      },
+      "224": {
+        "filename": "NftPlatform.code",
+        "line": 222
+      },
+      "240": {
+        "filename": "NftPlatform.code",
+        "line": 223
+      },
+      "256": {
+        "filename": "NftPlatform.code",
+        "line": 224
+      },
+      "272": {
+        "filename": "NftPlatform.code",
+        "line": 225
+      },
+      "288": {
+        "filename": "NftPlatform.code",
+        "line": 226
+      },
+      "312": {
+        "filename": "NftPlatform.code",
+        "line": 227
+      },
+      "328": {
+        "filename": "NftPlatform.code",
+        "line": 228
+      },
+      "336": {
+        "filename": "NftPlatform.code",
+        "line": 229
+      },
+      "352": {
+        "filename": "NftPlatform.code",
+        "line": 231
+      }
+    },
+    "2ffe6fe00672931001f8c71927983098612f585766686e0d530d5d63b3bbe1b9": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 189
+      },
+      "16": {
+        "filename": "NftPlatform.code",
+        "line": 190
+      },
+      "24": {
+        "filename": "NftPlatform.code",
+        "line": 191
+      },
+      "40": {
+        "filename": "NftPlatform.code",
+        "line": 192
+      },
+      "56": {
+        "filename": "NftPlatform.code",
+        "line": 193
+      },
+      "72": {
+        "filename": "NftPlatform.code",
+        "line": 194
+      },
+      "80": {
+        "filename": "NftPlatform.code",
+        "line": 195
+      },
+      "96": {
+        "filename": "NftPlatform.code",
+        "line": 196
+      },
+      "104": {
+        "filename": "NftPlatform.code",
+        "line": 197
+      },
+      "120": {
+        "filename": "NftPlatform.code",
+        "line": 198
+      },
+      "136": {
+        "filename": "NftPlatform.code",
+        "line": 199
+      }
+    },
+    "30fce196f43b6dc21f7db974fa330df4877b38143502c57998b2e585972561c7": {
+      "0": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 24
+      },
+      "16": {
+        "filename": "NftPlatform.code",
+        "line": 144
+      },
+      "32": {
+        "filename": "NftPlatform.code",
+        "line": 147
+      }
+    },
+    "6ac97321df6b95abd309ea0aefb41e03141724afc7fe02268c89522e1b1a04ca": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 264
+      },
+      "16": {
+        "filename": "NftPlatform.code",
+        "line": 265
+      },
+      "24": {
+        "filename": "NftPlatform.code",
+        "line": 266
+      },
+      "40": {
+        "filename": "NftPlatform.code",
+        "line": 267
+      },
+      "56": {
+        "filename": "NftPlatform.code",
+        "line": 268
+      },
+      "72": {
+        "filename": "NftPlatform.code",
+        "line": 269
+      },
+      "80": {
+        "filename": "NftPlatform.code",
+        "line": 270
+      },
+      "88": {
+        "filename": "NftPlatform.code",
+        "line": 271
+      },
+      "104": {
+        "filename": "NftPlatform.code",
+        "line": 272
+      },
+      "120": {
+        "filename": "NftPlatform.code",
+        "line": 273
+      },
+      "128": {
+        "filename": "NftPlatform.code",
+        "line": 274
+      },
+      "144": {
+        "filename": "NftPlatform.code",
+        "line": 275
+      },
+      "168": {
+        "filename": "NftPlatform.code",
+        "line": 276
+      },
+      "176": {
+        "filename": "NftPlatform.code",
+        "line": 277
+      },
+      "184": {
+        "filename": "NftPlatform.code",
+        "line": 278
+      },
+      "200": {
+        "filename": "NftPlatform.code",
+        "line": 279
+      },
+      "216": {
+        "filename": "NftPlatform.code",
+        "line": 283
+      },
+      "224": {
+        "filename": "NftPlatform.code",
+        "line": 284
+      },
+      "248": {
+        "filename": "NftPlatform.code",
+        "line": 285
+      },
+      "264": {
+        "filename": "NftPlatform.code",
+        "line": 286
+      },
+      "272": {
+        "filename": "NftPlatform.code",
+        "line": 287
+      },
+      "288": {
+        "filename": "NftPlatform.code",
+        "line": 291
+      },
+      "296": {
+        "filename": "NftPlatform.code",
+        "line": 292
+      },
+      "312": {
+        "filename": "NftPlatform.code",
+        "line": 295
+      }
+    },
+    "6d39ca0644d9d6d8c3f35828f23ba83dcf445678a42e2da6217e155c3d254f20": {
+      "0": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "16": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "24": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      }
+    },
+    "7058defae68b316308735c0b3ca798e55caa9b74f90b046aa19b62c71e30f353": {
+      "0": {
+        "filename": "<save-my-code>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<save-my-code>",
+        "line": 7
+      }
+    },
+    "81cd90a9bf155fbe6b2751ac8a57f03cfbc7bed5c03cc45e74a204da3d84d487": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 236
+      },
+      "16": {
+        "filename": "NftPlatform.code",
+        "line": 237
+      },
+      "32": {
+        "filename": "NftPlatform.code",
+        "line": 238
+      },
+      "48": {
+        "filename": "NftPlatform.code",
+        "line": 239
+      },
+      "56": {
+        "filename": "NftPlatform.code",
+        "line": 240
+      },
+      "72": {
+        "filename": "NftPlatform.code",
+        "line": 241
+      },
+      "88": {
+        "filename": "NftPlatform.code",
+        "line": 242
+      },
+      "104": {
+        "filename": "NftPlatform.code",
+        "line": 243
+      },
+      "120": {
+        "filename": "NftPlatform.code",
+        "line": 244
+      },
+      "128": {
+        "filename": "NftPlatform.code",
+        "line": 245
+      }
+    },
+    "8a9fc7c09abfb959ce701ed79d2b1634407a9ba504e1a2549d10b715f5c48c24": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 355
+      },
+      "8": {
+        "filename": "NftPlatform.code",
+        "line": 356
+      },
+      "56": {
+        "filename": "NftPlatform.code",
+        "line": 357
+      },
+      "64": {
+        "filename": "NftPlatform.code",
+        "line": 358
+      }
+    },
+    "d4558544870b4995be58a7a61afa4ed8db74cb3458f27245fc4d771269dcfe92": {
+      "0": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "16": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "24": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "56": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "72": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "88": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "96": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "112": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "120": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "152": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "168": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "176": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "192": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "208": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "216": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "232": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "240": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "248": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "256": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      }
+    },
+    "e2c6a414f0988732e85d39fb2d25e437f155f8c93a91f0d003d9de4c87d27419": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 6
+      },
+      "8": {
+        "filename": "NftPlatform.code",
+        "line": 7
+      },
+      "24": {
+        "filename": "NftPlatform.code",
+        "line": 8
+      },
+      "32": {
+        "filename": "NftPlatform.code",
+        "line": 9
+      },
+      "48": {
+        "filename": "NftPlatform.code",
+        "line": 12
+      },
+      "64": {
+        "filename": "NftPlatform.code",
+        "line": 13
+      },
+      "80": {
+        "filename": "NftPlatform.code",
+        "line": 14
+      },
+      "88": {
+        "filename": "NftPlatform.code",
+        "line": 15
+      },
+      "96": {
+        "filename": "NftPlatform.code",
+        "line": 16
+      },
+      "104": {
+        "filename": "NftPlatform.code",
+        "line": 17
+      },
+      "112": {
+        "filename": "NftPlatform.code",
+        "line": 18
+      },
+      "120": {
+        "filename": "NftPlatform.code",
+        "line": 19
+      },
+      "128": {
+        "filename": "NftPlatform.code",
+        "line": 20
+      },
+      "136": {
+        "filename": "NftPlatform.code",
+        "line": 22
+      },
+      "144": {
+        "filename": "NftPlatform.code",
+        "line": 23
+      },
+      "152": {
+        "filename": "NftPlatform.code",
+        "line": 24
+      },
+      "160": {
+        "filename": "NftPlatform.code",
+        "line": 26
+      },
+      "168": {
+        "filename": "NftPlatform.code",
+        "line": 27
+      },
+      "184": {
+        "filename": "NftPlatform.code",
+        "line": 28
+      },
+      "192": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "208": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "216": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "224": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "264": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "272": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "280": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "288": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 17
+      },
+      "304": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 18
+      },
+      "312": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 18
+      },
+      "320": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 18
+      },
+      "344": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 19
+      },
+      "352": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 19
+      },
+      "360": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 19
+      },
+      "376": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 19
+      },
+      "384": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 19
+      },
+      "400": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 19
+      },
+      "408": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 20
+      },
+      "424": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 20
+      },
+      "440": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 20
+      },
+      "464": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 21
+      },
+      "472": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 21
+      },
+      "496": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 22
+      },
+      "504": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 22
+      },
+      "520": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 22
+      },
+      "528": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 22
+      },
+      "536": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 22
+      },
+      "544": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 22
+      }
+    },
+    "e8a4cba9a2a029706ac409a42d7b8c21033070de1bcf76babac94a2d788d7da2": {
+      "0": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 31
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "NftPlatform.code",
+        "line": 280
+      },
+      "16": {
+        "filename": "NftPlatform.code",
+        "line": 281
+      }
+    },
+    "f8c384077fd6c473c014353da869e98db76391ec645d8e68a6f2895b4a3200b2": {
+      "0": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 28
+      },
+      "8": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 28
+      },
+      "24": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "32": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "40": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "48": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "88": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "104": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "112": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "128": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "136": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "144": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "160": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "168": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "184": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 29
+      },
+      "200": {
+        "filename": "../contracts/Nft/NftPlatform.sol",
+        "line": 31
+      }
+    },
+    "ff3a2cfb28a1b3391155368f5fd0de14ce72734988f438cc9d7f4eb6e3c43ca9": {
+      "40": {
+        "filename": "NftPlatform.code",
+        "line": 180
+      },
+      "48": {
+        "filename": "NftPlatform.code",
+        "line": 182
+      },
+      "64": {
+        "filename": "NftPlatform.code",
+        "line": 185
+      },
+      "80": {
+        "filename": "NftPlatform.code",
+        "line": 186
+      }
+    }
+  }
+}
