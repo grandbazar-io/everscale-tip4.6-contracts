@@ -303,6 +303,18 @@
 			]
 		},
 		{
+			"name": "CollectionCreated",
+			"inputs": [
+				{"name":"id","type":"uint256"},
+				{"name":"collectionRoot","type":"address"},
+				{"name":"author","type":"address"},
+				{"name":"json","type":"string"},
+				{"name":"isProtected","type":"bool"}
+			],
+			"outputs": [
+			]
+		},
+		{
 			"name": "NftCreated",
 			"inputs": [
 				{"name":"id","type":"uint256"},

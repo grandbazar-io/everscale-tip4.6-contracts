@@ -820,76 +820,76 @@
     },
     "167cbcddb50e29cce7c28a14df73bae947a561cc10d9c38c298a1e02278eb4e6": {
       "0": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "8": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "24": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "32": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "40": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "56": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "64": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "72": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "88": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "96": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "104": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "120": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "128": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "136": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "152": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "168": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "184": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       },
       "192": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 42
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 203
       }
     },
     "1d4e0eabb2ab931d49db4aae5afdb64b5ac540d94dc71138370328bb7c4b7538": {
@@ -4326,122 +4326,122 @@
     },
     "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
       "0": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
+        "filename": "CollectionUpgradeableV2.code",
+        "line": 4020
       }
     },
     "661510a747d6c1d9478d69fcee161dae7d3a3197c02351316a8b586361a7bb15": {
       "0": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "8": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "40": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "56": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "72": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "88": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "96": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "104": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "120": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "128": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "136": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "152": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "160": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "192": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "208": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "216": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "224": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "232": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "264": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "280": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "296": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "320": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "352": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "360": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "368": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "376": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "384": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "400": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       }
     },
     "669c93370c3314dbef31a52614fb2de5df90302dc225acef46c4bb74c3675518": {
@@ -4894,6 +4894,40 @@
       "832": {
         "filename": "CollectionUpgradeableV2.code",
         "line": 3504
+      }
+    },
+    "6a9cc07fd236a55aa1013881dabaf33e4defb92e858c3bd84decdf4cbbcd1ea1": {
+      "40": {
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 74
+      },
+      "48": {
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 74
+      },
+      "64": {
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 74
+      },
+      "72": {
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 74
+      },
+      "88": {
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 74
+      },
+      "96": {
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 74
+      },
+      "112": {
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 74
+      },
+      "120": {
+        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
+        "line": 74
       }
     },
     "6d39ca0644d9d6d8c3f35828f23ba83dcf445678a42e2da6217e155c3d254f20": {
@@ -7515,56 +7549,56 @@
     },
     "9ccdbf037ae1b7fb0ec65c82c7f8e8a78ad48ae2cf019c33100b2b69dcdb9af9": {
       "0": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "8": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "16": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "24": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "32": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "40": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "48": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "64": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "72": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "112": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "120": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "128": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "144": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       }
     },
     "a21fee86b898a6d600be6bfe2af530875fc4f1d2bc9df943fad90838f70fd062": {
@@ -9743,28 +9777,28 @@
     },
     "d3f2b1249b540372674fd61f7a8f6d4287139933e5e10ab78733c90080ea690b": {
       "0": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "8": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "48": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "64": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "72": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "80": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       }
     },
     "d4558544870b4995be58a7a61afa4ed8db74cb3458f27245fc4d771269dcfe92": {
@@ -9843,40 +9877,6 @@
       "256": {
         "filename": "../contracts/test/CollectionUpgradeableV2.sol",
         "line": 75
-      }
-    },
-    "d4f7cd8a2e465b2be7093710336e0cca70d7483becd8114ea6bf9638c2ff6586": {
-      "4": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
-      },
-      "12": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
-      },
-      "28": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
-      },
-      "36": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
-      },
-      "52": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
-      },
-      "60": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
-      },
-      "76": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
-      },
-      "84": {
-        "filename": "../contracts/test/CollectionUpgradeableV2.sol",
-        "line": 74
       }
     },
     "d63cf88c6a6fbed5f5c4488a05b2d577ba285ea89e9b4d141151e134cb19fb6c": {
@@ -10631,12 +10631,12 @@
     },
     "e5bcdd2119476d1431fe608d0e167cc2a472cc103c84b8c2f7d0157c12a715a8": {
       "0": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "8": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       }
     },
     "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
@@ -11565,16 +11565,16 @@
     },
     "f0f862570b8c0c159cf1a4d6ad2262eab4e0b744e988a5c089b6cc1fd03c2020": {
       "0": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "8": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       },
       "24": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Collection.sol",
-        "line": 71
+        "filename": "../contracts/Collection/CollectionUpgradeableBase.sol",
+        "line": 149
       }
     },
     "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {

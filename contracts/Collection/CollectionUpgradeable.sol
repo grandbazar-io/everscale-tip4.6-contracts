@@ -153,6 +153,7 @@ contract CollectionUpgradeable is CollectionUpgradeableBase {
 
         if (_collectionVersion == oldVersion) {
             _deployIndexBasis();
+            emit CollectionCreated(_id, _collectionsRoot, _author, _json, _isProtected);
         } else {
             emit CollectionUpgraded(oldVersion, _collectionVersion);
         }

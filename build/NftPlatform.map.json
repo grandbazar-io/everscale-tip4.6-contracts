@@ -674,6 +674,24 @@
         "line": 245
       }
     },
+    "83f843a559937113e94e17050c605a09525233cb9bb9ec82c0a9a1cacbbab5aa": {
+      "4": {
+        "filename": "NftPlatform.code",
+        "line": 180
+      },
+      "12": {
+        "filename": "NftPlatform.code",
+        "line": 182
+      },
+      "28": {
+        "filename": "NftPlatform.code",
+        "line": 185
+      },
+      "44": {
+        "filename": "NftPlatform.code",
+        "line": 186
+      }
+    },
     "8a9fc7c09abfb959ce701ed79d2b1634407a9ba504e1a2549d10b715f5c48c24": {
       "0": {
         "filename": "NftPlatform.code",
@@ -1040,24 +1058,6 @@
       "200": {
         "filename": "../contracts/Nft/NftPlatform.sol",
         "line": 31
-      }
-    },
-    "ff3a2cfb28a1b3391155368f5fd0de14ce72734988f438cc9d7f4eb6e3c43ca9": {
-      "40": {
-        "filename": "NftPlatform.code",
-        "line": 180
-      },
-      "48": {
-        "filename": "NftPlatform.code",
-        "line": 182
-      },
-      "64": {
-        "filename": "NftPlatform.code",
-        "line": 185
-      },
-      "80": {
-        "filename": "NftPlatform.code",
-        "line": 186
       }
     }
   }

@@ -557,7 +557,34 @@ GETGLOBVAR
 OVER
 EQUAL
 PUSHCONT {
-	.loc ../contracts/Collection/CollectionUpgradeable.sol, 157
+	.loc ../contracts/Collection/CollectionUpgradeable.sol, 155
+	CALLREF {
+		CALL $_deployIndexBasis_internal_macro$
+	}
+	.loc ../contracts/Collection/CollectionUpgradeable.sol, 156
+	GETGLOB 22
+	GETGLOB 12
+	GETGLOB 21
+	GETGLOB 19
+	GETGLOB 18
+	PUSHSLICE xc0000000000000000000000001
+	NEWC
+	STSLICE
+	ROLLREV 5
+	NEWC
+	STSLICECONST x522c341c
+	STU 256
+	STSLICE
+	ROLLREV 3
+	NEWC
+	STSLICE
+	STREF
+	STI 1
+	STBREFR
+	STBREFR
+}
+PUSHCONT {
+	.loc ../contracts/Collection/CollectionUpgradeable.sol, 158
 	PUSHINT 33
 	GETGLOBVAR
 	OVER
@@ -566,15 +593,12 @@ PUSHCONT {
 	STSLICE
 	STU 32
 	STU 32
-	ENDC
-	PUSHINT 0
-	SENDRAWMSG
-	.loc ../contracts/Collection/CollectionUpgradeable.sol, 0
 }
-IFREFELSE {
-	CALL $_deployIndexBasis_internal_macro$
-}
-.loc ../contracts/Collection/CollectionUpgradeable.sol, 160
+IFELSE
+ENDC
+PUSHINT 0
+SENDRAWMSG
+.loc ../contracts/Collection/CollectionUpgradeable.sol, 161
 DROP
 DUP
 PARSEMSGADDR
@@ -587,7 +611,7 @@ SDEQ
 NOT
 AND
 PUSHCONT {
-	.loc ../contracts/Collection/CollectionUpgradeable.sol, 161
+	.loc ../contracts/Collection/CollectionUpgradeable.sol, 162
 	DUP
 	NEWC
 	STSLICECONST x42_
@@ -615,28 +639,28 @@ THROW 0
 CALL $_deployNft_internal_macro$
 
 .macro _deployNft_internal_macro
-.loc ../contracts/Collection/CollectionUpgradeable.sol, 172
-GETGLOB 29
 .loc ../contracts/Collection/CollectionUpgradeable.sol, 173
+GETGLOB 29
+.loc ../contracts/Collection/CollectionUpgradeable.sol, 174
 GETGLOB 11
 INC
 UFITS 128
 SETGLOB 11
-.loc ../contracts/Collection/CollectionUpgradeable.sol, 174
+.loc ../contracts/Collection/CollectionUpgradeable.sol, 175
 GETGLOB 29
 INC
 SETGLOB 29
-.loc ../contracts/Collection/CollectionUpgradeable.sol, 176
+.loc ../contracts/Collection/CollectionUpgradeable.sol, 177
 MYADDR
 CALLREF {
 	CALL $_buildPlatformCode_internal_macro$
 }
-.loc ../contracts/Collection/CollectionUpgradeable.sol, 177
+.loc ../contracts/Collection/CollectionUpgradeable.sol, 178
 OVER
 CALLREF {
 	CALL $_buildPlatformState_internal_macro$
 }
-.loc ../contracts/Collection/CollectionUpgradeable.sol, 186
+.loc ../contracts/Collection/CollectionUpgradeable.sol, 187
 BLKSWAP 4, 2
 REVERSE 4, 0
 PUSH2 S6, S6
@@ -674,7 +698,7 @@ STDICT
 STBREFR
 STBREFR
 ENDC
-.loc ../contracts/Collection/CollectionUpgradeable.sol, 205
+.loc ../contracts/Collection/CollectionUpgradeable.sol, 206
 GETGLOB 23
 SWAP
 MYADDR
@@ -728,7 +752,7 @@ STU 128
 ENDC
 PUSHINT 128
 SENDRAWMSG
-.loc ../contracts/Collection/CollectionUpgradeable.sol, 211
+.loc ../contracts/Collection/CollectionUpgradeable.sol, 212
 PUSH2 S2, S2
 ROLL 4
 PUSH S3

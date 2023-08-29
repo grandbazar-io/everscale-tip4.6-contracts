@@ -3776,8 +3776,8 @@
     },
     "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
       "0": {
-        "filename": "../contracts/TIP/TIP4_3/TIP4_3Nft.sol",
-        "line": 67
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
       }
     },
     "62fb886539d879f9a7c7f96f05342e50b8888ff02a94ea4aa21db815eb7bcf92": {
@@ -6337,40 +6337,6 @@
         "line": 1667
       }
     },
-    "99aeaca9ed03d48f0d79ddf4364a0161075eea78d927c3e780d9ceaaac183dab": {
-      "38": {
-        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
-        "line": 58
-      },
-      "46": {
-        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
-        "line": 58
-      },
-      "62": {
-        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
-        "line": 58
-      },
-      "70": {
-        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
-        "line": 58
-      },
-      "86": {
-        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
-        "line": 58
-      },
-      "94": {
-        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
-        "line": 58
-      },
-      "110": {
-        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
-        "line": 58
-      },
-      "118": {
-        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
-        "line": 58
-      }
-    },
     "9a131a126c2660fbf4b80c1300858162ec9a3531ee7b95a2800279d85b37ed10": {
       "0": {
         "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
@@ -8091,6 +8057,40 @@
         "line": 47
       }
     },
+    "ca80b863dea7282f15e7ea5975e88eae69b402113ed06047554b90af2058da77": {
+      "4": {
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
+      },
+      "12": {
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
+      },
+      "28": {
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
+      },
+      "36": {
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
+      },
+      "52": {
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
+      },
+      "60": {
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
+      },
+      "76": {
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
+      },
+      "84": {
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 58
+      }
+    },
     "cbe6c6ce8b3a31b47ad35fcfc049b4d59081ca792132eeeeb1fe29c0eafa4314": {
       "0": {
         "filename": "../contracts/TIP/TIP4_1/TIP4_1Nft.sol",
@@ -9049,28 +9049,28 @@
     },
     "d26fceafaab96fb698cdd410546c45e2828c6478ece3c7622f81d6d2da022ef4": {
       "0": {
-        "filename": "../contracts/TIP/TIP4_1/TIP4_1Nft.sol",
-        "line": 165
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 126
       },
       "8": {
-        "filename": "../contracts/TIP/TIP4_1/TIP4_1Nft.sol",
-        "line": 165
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 126
       },
       "16": {
-        "filename": "../contracts/TIP/TIP4_1/TIP4_1Nft.sol",
-        "line": 165
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 126
       },
       "32": {
-        "filename": "../contracts/TIP/TIP4_1/TIP4_1Nft.sol",
-        "line": 165
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 126
       },
       "40": {
-        "filename": "../contracts/TIP/TIP4_1/TIP4_1Nft.sol",
-        "line": 165
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 126
       },
       "48": {
-        "filename": "../contracts/TIP/TIP4_1/TIP4_1Nft.sol",
-        "line": 165
+        "filename": "../contracts/Nft/NftBulkUpgradeable.sol",
+        "line": 126
       }
     },
     "d3f2b1249b540372674fd61f7a8f6d4287139933e5e10ab78733c90080ea690b": {

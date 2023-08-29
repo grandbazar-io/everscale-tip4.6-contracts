@@ -508,7 +508,9 @@ SENDRAWMSG
 .loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 164
 PUSH3 S13, S3, S13
 PUSH2 S3, S5
-PUSHSLICE xc0000000000000000000000001
+PUSHREFSLICE {
+	.blob xc0000000000000000000000001
+}
 NEWC
 STSLICE
 ROLLREV 5
@@ -540,7 +542,9 @@ ROLL 7
 PUSH S17
 BLKSWAP 2, 7
 SWAP
-PUSHSLICE xc0000000000000000000000001
+PUSHREFSLICE {
+	.blob xc0000000000000000000000001
+}
 NEWC
 STSLICE
 ROLLREV 9
@@ -1052,7 +1056,36 @@ GETGLOBVAR
 OVER
 EQUAL
 PUSHCONT {
-	.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 321
+	.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 319
+	CALLREF {
+		CALL $_deployIndexBasis_internal_macro$
+	}
+	.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 320
+	GETGLOB 22
+	GETGLOB 12
+	GETGLOB 21
+	GETGLOB 19
+	GETGLOB 18
+	PUSHREFSLICE {
+		.blob xc0000000000000000000000001
+	}
+	NEWC
+	STSLICE
+	ROLLREV 5
+	NEWC
+	STSLICECONST x522c341c
+	STU 256
+	STSLICE
+	ROLLREV 3
+	NEWC
+	STSLICE
+	STREF
+	STI 1
+	STBREFR
+	STBREFR
+}
+PUSHCONT {
+	.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 322
 	PUSHINT 33
 	GETGLOBVAR
 	OVER
@@ -1061,15 +1094,12 @@ PUSHCONT {
 	STSLICE
 	STU 32
 	STU 32
-	ENDC
-	PUSHINT 0
-	SENDRAWMSG
-	.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 0
 }
-IFREFELSE {
-	CALL $_deployIndexBasis_internal_macro$
-}
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 324
+IFELSE
+ENDC
+PUSHINT 0
+SENDRAWMSG
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 325
 DROP
 DUP
 PARSEMSGADDR
@@ -1082,7 +1112,7 @@ SDEQ
 NOT
 AND
 PUSHCONT {
-	.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 325
+	.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 326
 	DUP
 	NEWC
 	STSLICECONST x42_
@@ -1114,7 +1144,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 330
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 331
 LDU 32
 GETGLOB 4
 ROT
@@ -1177,7 +1207,7 @@ IFREF {
 THROW 0
 
 .macro editionsSupply_internal_macro
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 331
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 332
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -1199,7 +1229,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 334
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 335
 LDU 32
 GETGLOB 4
 ROT
@@ -1262,7 +1292,7 @@ IFREF {
 THROW 0
 
 .macro sendToProxyValue_internal_macro
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 335
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 336
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -1280,7 +1310,7 @@ GETGLOBVAR
 CALL $_sendToNftValue_internal_macro$
 
 .macro _sendToNftValue_internal_macro
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 339
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 340
 GETGLOB 23
 PUSHINT 2
 GETGLOB 15
@@ -1301,7 +1331,7 @@ UFITS 128
 CALL $_totalCreationPrice_internal_macro$
 
 .macro _totalCreationPrice_internal_macro
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 343
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 344
 GETGLOB 27
 GETGLOB 26
 ADD
@@ -1327,7 +1357,7 @@ UFITS 128
 CALL $_buildNftState_internal_macro$
 
 .macro _buildNftState_internal_macro
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 347
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 348
 PUSHINT 0
 NEWC
 STU 256
@@ -1363,7 +1393,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 350
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 351
 LDU 32
 GETGLOB 4
 ROT
@@ -1427,7 +1457,7 @@ IFREF {
 THROW 0
 
 .macro supportsInterface_internal_macro
-.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 352
+.loc ../contracts/Collection/CollectionBulkUpgradeable.sol, 353
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -2286,7 +2316,9 @@ PUSHCONT {
 	PUSHINT 32
 	GETGLOBVAR
 	PUSH S5
-	PUSHSLICE xc0000000000000000000000001
+	PUSHREFSLICE {
+		.blob xc0000000000000000000000001
+	}
 	NEWC
 	STSLICE
 	ROLLREV 4
@@ -2692,7 +2724,9 @@ RAWRESERVE
 XCHG S2
 GETGLOB 9
 ROLL 4
-PUSHSLICE xc0000000000000000000000001
+PUSHREFSLICE {
+	.blob xc0000000000000000000000001
+}
 NEWC
 STSLICE
 ROLLREV 4
